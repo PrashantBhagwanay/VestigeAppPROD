@@ -1,0 +1,722 @@
+{
+    "onboardingScreen": {
+      "buttonSignIn": "সাইন ইন",
+      "buttonSignUp": "সাইন আপ",
+      "onboarding": [{
+          "title": "বিশ্বব্যাপী উপস্থিতি",
+          "subTitle": "এখন দ্বিগুণ সুবিধা উপভোগ করুন. আপনার প্রিয় ভেস্টিজ প্রোডাক্ট কেনাকাটা করুন এবং একই জায়গা থেকে ভেস্টিজের খবর ও অফার সম্পর্কে আপডেটেড থাকুন. "
+        },
+        {
+          "title": "ওয়েল্‌থময় হয়ে উঠুন",
+          "subTitle": "আপনার ভেস্টিজ ব্যবসা আপনাকে বিবিধ সুবিধা যেমন ট্র্যাভেল ফান্ড, কার ফান্ড, হাউস ফান্ড এবং আরও অনেক সুবিধা অফার করে. ভেস্টিজ ব্যবসায় এগিয়ে যান এবং সুবিধাগুলি উপভোগ করুন."
+        },
+        {
+          "title": "বিশ্বমানের চিন্তাভাবনা করুন",
+          "subTitle": " সংযোগ স্থাপন করা আমাদের জন্য খুবই গুরুত্বপূর্ণ. ভেস্টিজ আপনাকে ডিজিটালরূপে আপনার ব্যবসা, নেটওয়ার্ক এবং সাফল্যের গ্রাফের সঙ্গে 24x7 জুড়ে রাখে"
+        }]
+    },
+    "drawerScreen": {
+        "categories": "ক্যাটাগরি",
+        "brands": "ব্র্যান্ড",
+        "vbd": "ভিবিডি স্টোরস",
+        "news": "সংবাদ",
+        "gallery": "গ্যালারি",
+        "branches": "ব্রাঞ্চ",
+        "aboutUs": "আমাদের সম্পর্কে",
+        "help": "সহায়তা",
+        "level": "আমার লেভেল ",
+        "groupPv": "আমার গ্রুপ পিভি",
+        "kyc": "আমার কেওয়াইসি",
+        "network": "আমার নেটওয়ার্ক",
+        "consistency": "আমার ধারাবাহিকতা",
+        "funds": "আমার ফান্ড",
+        "voucher": "আমার ভাউচার",
+        "bonus": "আমার বোনাস",
+        "training": "আমার ট্রেনিং",
+        "recommendation": "পরামর্শ",
+        "refer": "একজন বন্ধুকে রেফার করুন",
+        "order": "আমার অর্ডার",
+        "password": "পাসওয়ার্ড পরিবর্তন করুন",
+        "signOut": "সাইন আউট করুন",
+        "profile": "আমার প্রোফাইল"
+    },
+    "graphPv": {
+      "screenTitle": "পিভি-এর বিবরণ",
+      "pvTypes": {
+        "myPv": "আমার পিভি",
+        "groupPv": "গ্রুপ পিভি",
+        "totalPv": "টোটাল পিভি",
+        "exclusivePV": "এক্সক্লুসিভ পিভি",
+        "selfPv": "নিজস্ব পিভি",
+        "currentCumulativePv": "বর্তমান সংযোজক পিভি",
+        "nextLevel": "পরবর্তী লেভেল ",
+        "shortPoints": "কম পয়েন্ট",
+        "lastMonthPointDetails": "গত মাসের পয়েন্টের বিবরণ",
+        "previousExclusivePv": "পূর্ববর্তী এক্সক্লুসিভ পিভি",
+        "previousSelfPv": "পূর্ববর্তী নিজস্ব পিভি",
+        "previousTotalPv": "পূর্ববর্তী মোট পিভি",
+        "lastMonthLevel": "আগের মাসের লেভেল",
+        "currentMonthPointDetails": "বর্তমান মাসের পয়েন্টের বিবরণ",
+        "previousCumulativePv": "পূর্ববর্তী সংযোজক পিভি"
+      }
+    },
+    "myFund": {
+      "screenTitle": "আমার ফান্ড",
+      "fundTypes": {
+        "carFund": {
+          "title": "Car Funds",
+          "displayName": "কার ফান্ড"
+        },
+        "travelFund": {
+          "title": "Travel Funds",
+          "displayName": "ট্র্যাভেল ফান্ড"
+        },
+        "houseFund": {
+          "title": "House Funds",
+          "displayName": "হাউস ফান্ড"
+        }
+      },
+      "fundDetailKeys": {
+        "Opening": "প্রারম্ভিক",
+        "Balance": "ব্যালেন্স",
+        "Paid": "পে করা হয়েছে",
+        "New": "নতুন",
+        "Remark": "মন্তব্য"
+      },
+      "detailsHeading": "বিবরণ",
+      "currency": "টাকা."
+    },
+    "addToCart": {
+      "buyingPreference": "কার জন্য ক্রয় করতে চান",
+      "buyingOption1": "নিজের জন্য",
+      "buyingOption2": "ডাউনলাইনদের জন্য ক্রয় করুন",
+      "addToCartButtonTitle": "ডাউনলাইনদের জন্য কার্ট তৈরি করুন",
+      "ContinueShopping": "আরো কেনাকাটা করুন",
+      "removeCart": "কার্ট মুছে ফেলুন",
+      "removeCart2": "কার্ট থেকে প্রোডাক্টটিও মুছে দেওয়া হবে ",
+      "removeCartHeading": "কার্ট মুছে ফেলুন",
+      "downlineSearchError": "দুঃখিত! আপনি আপনার নিজের আইডিটি খুঁজতে পারবেন না",
+      "addMoreText": "আরও যোগ করুন"
+    },
+    "cartListProduct": {
+      "removeItem": "আপনি কি নিশ্চিতরূপে এটি মুছে ফেলতে চান?",
+      "alertMessageHeading": "সতর্কতা!",
+      "onlineDisabled": "অনলাইন পে বিকল্পটি এই মুহূর্তে অক্ষম, অনুগ্রহ করে ক্যাশ বিকল্পের মাধ্যমে এগিয়ে যান.",
+      "cashOnShipping": "আপনি আপনার পেমেন্ট মোড হিসেবে ক্যাশ নির্বাচন করতে পারবেন না কারণ আপনার বর্তমান ডেলিভারির স্থিতিটি হল শিপিং",
+      "onlineOnShipping": "অনলাইন অর্ডার এই দোকান উপর acceptable হয় না।",
+      "productBeforeCheckout": "অনুগ্রহ করে চেকআউট করার আগে ঠিকানা যোগ করুন  ",
+      "emptyCart": "আপনার কার্টটি খালি রয়েছে",
+      "cartCreated": "কার্ট সফলভাবে তৈরি করা হয়েছে!!!",
+      "productRemoved": "আপনার প্রোডাক্টটি মুছে ফেলা হয়েছে!",
+      "useralreadyAdded": "ইউজার ইতিমধ্যে যোগ করা হয়েছে ",
+      "removeCart": "কার্ট মুছে ফেলুন",
+      "promotionalProducts": "প্রচারমূলক প্রোডাক্ট",
+      "giftProducts": "উপহারের প্রোডাক্ট",
+      "totalPV": "মোট পিভি",
+      "cartDistributorID": "আইডি",
+      "emptyCartTitle": "কার্ট খালি",
+      "vouchersAppliedTitle": "প্রয়োগ করা হয়েছে",
+      "vouchersNotAppliedTitle": "ভাউচার/প্রচার যোগ করুন ",
+      "itemsKey": "জিনিসগুলি",
+      "total": "Total",
+      "bonusDiscount": "Bonus Discount",
+      "giftVoucher": "Gift Voucher",
+      "promoCost": "Promotion Cost",
+      "orderTotal": "মোট অর্ডার",
+      "paymentMethod": "পেমেণ্ট পদ্ধতি",
+      "cashButton": "ক্যাশ ",
+      "onlineButton": "অনলাইন",
+      "deleteCartText": "কার্ট মুছে দিন",
+      "checkoutButtonText": "চেক আউট করুন ",
+      "createCartForDownline": "আপনি শুধুমাত্র 2 downline জন্য কার্ট তৈরি করতে পারেন"
+    },
+    "commonMessages": {
+      "logout": "লগ আউট করুন",
+      "logoutHeading": "লগ আউট করুন",
+      "ok": "ঠিক আছে",
+      "cancel": "বাতিল করুন",
+      "yes": "হ্যাঁ",
+      "no": "না",
+      "done": "সম্পন্ন হয়েছে",
+      "cartDistributorLimit": "কার্ট শুধুমাত্র ডিস্ট্রিবিউটর ইউজারদের জন্য ",
+      "skip": "স্কিপ করুন",
+      "continue": "এগিয়ে যান",
+      "openSetting": "সেটিং খুলুন",
+      "alert": "সতর্কতা!",
+      "searchLimit": "ইনপুট ভ্যাল্যু  3 অক্ষরের থেকে বৃহত্তর হওয়া উচিৎ",
+      "noInternet": "কোনো ইন্টারনেট সংযোগ নেই, অনুগ্রহ করে কিছুক্ষণ পর আবার চেষ্টা করুন ",
+      "somethingWentWrong": "কিছু সমস্যা হয়েছে. ",
+      "tryAgain": "অনুগ্রহ করে পরে আবার চেষ্টা করুন",
+      "noProductRelated": "এই অর্ডার সম্বন্ধিত কোনো প্রোডাক্ট খুঁজে পাওয়া যায়নি.   ",
+      "validMonth": "অনুগ্রহ করে বৈধ মাস নির্বাচন করুন!!! ",
+      "tokenExpired": "আপনার সেশনের মেয়াদ ফুরিয়ে গেছে. অনুগ্রহ করে আবার লগইন করুন",
+      "noDataFoundText": "No Data Available for this user",
+      "gotoShopping": "আপনার নগদ আদেশ সফলভাবে স্থাপন করা হয়েছে, কেনাকাটা যেতে অবিরত ক্লিক করুন।"
+    },
+    "training": {
+      "selectCountry": "Please select country",
+      "selectCity": "অনুগ্রহ করে শহর নির্বাচন করুন."
+    },
+    "kyc": {
+      "title": "আমার কেওয়াইসি",
+      "heading": "আপনার কেওয়াইসি সম্পন্ন করুন",
+      "docChoice": "অনুগ্রহ করে যেকোনো একটি নির্বাচন করুন:",
+      "textInputPlaceholder": "ব্যাঙ্কের নাম",
+      "uploadButtonTitle": "আপলোড করুন",
+      "docType": {
+        "aadhar": {
+          "title": "আধার কার্ড",
+          "placeHolder": "আধার কার্ড নম্বর",
+          "label": "আধার"
+        },
+        "driverLicence": {
+          "title": "ড্রাইভার লাইসেন্স",
+          "placeHolder": "ড্রাইভার লাইসেন্স নম্বর",
+          "label": "ড্রাইভার লাইসেন্স"
+        },
+        "passport": {
+          "title": "পাসপোর্ট",
+          "placeHolder": "পাসপোর্ট নম্বর",
+          "label": "পাসপোর্ট"
+        }
+      },
+      "imageLimit": "সর্বাধিক দুটি ছবির জন্য অনুমতি আছে",
+      "imageType": "শুধুমাত্র জেপিজি বা জেপেগ সাপোর্ট করে",
+      "imageSize": "ছবির সাইজ 2 এমবি ছাড়িয়ে গেছে   ",
+      "documentMissing": "কোনো তথ্য আপলোড করা হয়নি ",
+      "docNoMissing": "অনুগ্রহ করে তথ্য নম্বর প্রদান করুন ",
+      "verificationMessage": "যাচাইকরন বাকি আছে",
+      "documentPlaceholder": "সামনে এবং পেছনের দিকের ছবি আপলোড করুন ",
+      "aadharNoInvalid": "অনুগ্রহ করে বৈধ আধার নম্বর প্রদান করুন.  ",
+      "passportNoInvalid": "অনুগ্রহ করে বৈধ পাসপোর্ট নম্বর প্রদান করুন.",
+      "driverNoInvalid": "অনুগ্রহ করে বৈধ ড্রাইভিং লাইসেন্স প্রদান করুন.",
+      "uploaded": "কেওয়াইসি আপলোড করুন ",
+      "alreadyUploaded": "কেওয়াইসি ইতিমধ্যে আপলোড করা হয়েছে  "
+    },
+    "product": {
+      "pv": "পিভি",
+      "amountType": "ডিপি",
+      "dealerPrice": "ডিপি ",
+      "addToCartText": "কার্টে যোগ করুন",
+      "maxLimit": "আপনি সর্বোচ্চ পরিমাণে পৌঁছে গেছেন ",
+      "selectProduct": "কার্ট পণ্য যোগ করার জন্য স্বয়ং বা কোনো Downline নির্বাচন করুন। ",
+      "addedToCart": "কার্টে প্রোডাক্ট যোগ করা হয়েছে",
+      "queryUpdated": "জিজ্ঞাস্য সফলভাবে আপডেট করা হয়েছে",
+      "removeWishList": "উইশলিস্ট থেকে প্রোডাক্ট মুছে ফেলা হয়েছে ",
+      "addWishList": "উইশলিস্টে প্রোডাক্ট যোগ করা হয়েছে ",
+      "filterTitle": "নিম্নলিখিতগুলির দ্বারা ফিল্টার করুন",
+      "clearFilter": "সব পরিষ্কার করুন",
+      "applyFilter": "আবেদন করুন",
+      "productsAvailable1": "শুধুমাত্র",
+      "productsAvailable2": "প্রোডাক্ট উপলব্ধ",
+      "view": "দেখুন",
+      "sort": "সাজান",
+      "filter": "ফিল্টার করুন",
+      "sortBy": "এইভাবে সাজান",
+      "recent": "সাম্প্রতিক সার্চগুলি",
+      "selectedRange": "নির্বাচিত রেঞ্জ",
+      "category": ["Brand","Category","Price","PV"],
+      "itemCode": "আইটেম কোড:",
+      "outOfStock": "ফুরিয়ে গেছে"
+    },
+    "productDetails": {
+      "title": "প্রোডাক্টের বিবরণ",
+      "pv": "পিভি",
+      "amountType": "ডিপি",
+      "addToCartText": "কার্টে যোগ করুন",
+      "notify": "আমাকে জানান",
+      "notified": "জানানো হয়েছে ",
+      "termsAndConditions": "নিয়ম ও শর্তাবলী",
+      "quantityHeading": "পরিমাণ",
+      "dealerPrice": "ডিপি",
+      "relatedProducts": "সম্পর্কিত প্রোডাক্টগুলি",
+      "similiarProducts": "একই রকম প্রোডাক্টগুলি",
+      "productsDetail": {
+        "heading": "প্রোডাক্টের বিবরণ",
+        "description": "মূল বৈশিষ্ট্য",
+        "unit": "ইউনিট",
+        "type": "প্যাকেজিং-এর ধরণ",
+        "disclaimer": "ডিসক্লেমার"
+      },
+      "widgetsHeading": {
+        "offerText": "অফার",
+        "rating": "রেটিং ও রিভিউগুলি",
+        "recentSearches": "সাম্প্রতিক সার্চগুলি"
+      },
+      "questions": {
+        "title": "প্রশ্নাবলী",
+        "queryText": "কোন জিজ্ঞাস্য আছে?",
+        "submit": "সাবমিট করুন"
+      },
+      "addToCart": "কার্টে যোগ করুন",
+      "buyNow": "এখনই কিনুন"
+    },
+    "forgotPasswordScreen": {
+      "title": "পাসওয়ার্ড ভুলে গেছেন",
+      "message": "আপনার পাসওয়ার্ড জানার জন্য একটা মিসড কল দিন. আমরা শীঘ্রই আপনাকে কল করবো!",
+      "missedCallLabelTitle": "মিসড কল দেওয়ার জন্য ট্যাপ করুন  "
+    },
+    "loginScreen": {
+      "ButtonSignIn": "সাইন ইন করুন",
+      "distributorIdMobile": "ডিস্ট্রিবিউটর আইডি বা মোবাইল নম্বর  ",
+      "distributorId": "ডিস্ট্রিবিউটর আইডি",
+      "distributorPassword": "পাসওয়ার্ড এণ্টার করুন",
+      "distributorOTP": "ওটিপি এণ্টার করুন",
+      "forgotPassword": "পাসওয়ার্ড ভুলে গেছেন",
+      "buttonProceed": "এগিয়ে যান",
+      "buttonLogin": "লগইন করুন",
+      "buttonSignUp": "সাইন আপ করুন",
+      "footerTitle": "আপনার কোনো অ্যাকাউন্ট নেই? ",
+      "signUpLabel": "সাইন আপ করুন",
+      "validMobileAlert": "অনুগ্রহ করে বৈধ মোবাইল নম্বর প্রদান করুন",
+      "sendOtp": "ওটিপি পাঠান",
+      "resendOtp": "ওটিপি পুনরায় পাঠান",
+      "sendOtpMessage": "আপনার মোবাইল নম্বরে একটি ওটিপি পাঠানো হয়েছে",
+      "resendOtpMessage": "এখনও ওটিপি গ্রহণ করেননি? আবার ওটিপি পাঠান",
+      "distributorIdErrorMessage": "অনুগ্রহ করে বৈধ ডিস্ট্রিবিউটর আইডি প্রদান করুন ",
+      "passwordErrorMessage": "অনুগ্রহ করে বৈধ পাসওয়ার্ড প্রদান করুন ",
+      "otpErrorMessage": "অনুগ্রহ করে বৈধ ওটিপি প্রদান করুন "
+    },
+    "signUpScreen": {
+      "validUpline": "বৈধ আপলাইন*",
+      "buttonProceed": "এগিয়ে যান",
+      "personalDetails": {
+        "title": "ব্যক্তিগত বিবরণ *",
+        "firstName": "প্রথম নাম",
+        "lastName": "শেষ নাম"
+      },
+      "contactDetails": {
+        "title": "যোগাযোগের বিবরণ *",
+        "mobile": "মোবাইল",
+        "emailId": "ইমেল আইডি",
+        "pincode": "পিন কোড",
+        "address": "ঠিকানা ( বাড়ির নম্বর, রাস্তার নাম, এলাকা)"
+      },
+      "kycDetails": {
+        "title": "কেওয়াইসির বিবরণ *",
+        "aadharCard": "আধার কার্ড",
+        "panCard": "প্যান কার্ড"
+      },
+      "bankDetails": {
+        "title": "ব্যাঙ্কের বিবরণ *",
+        "bankName": "ব্যাঙ্কের নাম",
+        "bankAccountNumber": "ব্যাঙ্ক অ্যাকাউন্ট নম্বর",
+        "ifscCode": "আইএফএসসি কোড"
+      },
+      "passwordDetails": {
+        "title": "পাসওয়ার্ড তৈরি করুন *",
+        "password": "পাসওয়ার্ড",
+        "confirmPassword": "পাসওয়ার্ড নিশ্চিত করুন"
+      },
+      "coDistributorDetails": {
+        "title": "সহ-ডিস্ট্রিবিউটরের বিবরণ *",
+        "firstName": "প্রথম নাম",
+        "lastName": "শেষ নাম"
+      },
+      "uplineInput": {
+        "referral": "রেফারাল কোড",
+        "or": "অথবা",
+        "validUpline": "বৈধ আপলাইন"
+      }
+    },
+    "dashboard": {
+      "DistributorID": "ডিস্ট্রিবিউটর আইডি",
+      "titleCategory": "ক্যাটাগরি দ্বারা কেনাকাটা করুন",
+      "brandsStore": "ব্র্যান্ডের স্টোর",
+      "categoriesTitle": "ক্যাটাগরি",
+      "whatTheySaidTitle": "তাদের বক্তব্য",
+      "titlePv": "পিভি দ্বারা কেনাকাটা করুন",
+      "viewMore": "আরো দেখুন",
+      "brands": {
+        "title": "সেরা ব্র্যান্ডগুলি",
+        "buttonTitle": "সমস্ত ব্র্যান্ডগুলি দেখুন"
+      },
+      "demoVideo": {
+        "quoteText": "ভালো কাজ করার একমাত্র উপায় হল আপনার কাজকে ভালোবাসা ",
+        "videoContainerText": "ভেস্টিজ ডেমো"
+      }
+    },
+    "changePassword": {
+      "currentPasswordTitle": "বর্তমান পাসওয়ার্ডটি এন্টার করুন",
+      "newPasswordTitle": "নতুন পাসওয়ার্ড এণ্টার করুন",
+      "buttonTitle": "পাসওয়ার্ড পরিবর্তন করুন",
+      "errCurrentPassword": "অনুগ্রহ করে আপনার বর্তমান পাসওয়ার্ডটি এন্টার করুন",
+      "errNewPassword": "অনুগ্রহ করে আপনার নতুন পাসওয়ার্ডটি এণ্টার করুন",
+      "errConfirmPassword": "অনুগ্রহ করে নিশ্চিত পাসওয়ার্ডটি এন্টার করুন",
+      "errMatchPassword": "নতুন পাসওয়ার্ডটি বর্তমান পাসওয়ার্ডের সাথে মিলছে না",
+      "screenTitle": "পাসওয়ার্ড পরিবর্তন করুন"
+    },
+    "voucherList": {
+      "voucherNo": "ভাউচার নং: ",
+      "valid": "বৈধ",
+      "voucherStatus": "ভাউচারের স্ট্যাটাস",
+      "invoiceNo": "ইনভয়েস নম্বর",
+      "invoiceDate": "ইনভয়েসের তারিখ",
+      "voucherApplied": "ভাউচার প্রয়োগ করা হয়েছে",
+      "voucherAmount": "ভাউচার রাশি",
+      "vouchers": "ভাউচারগুলি",
+      "apply": "আবেদন করুন",
+      "or": "অথবা",
+      "giftVoucherPlaceHolder": "গিফ্ট ভাউচারের কোডটি এন্টার করুন"
+    },
+    "vbdStores": {
+      "title": "VBD Stores",
+      "contactNo": "কন্ট্যাক্ট নম্বর.",
+      "address": "ঠিকানা",
+      "email": "ইমেল"
+    },
+    "errorMessage": {
+      "internetConnection": {
+        "noInternetConnection": "কোনো ইণ্টারনেট সংযোগ নেই",
+        "noInternetConnectionShort": "কোনো ইণ্টারনেট সংযোগ নেই"
+      },
+      "signUp": {
+        "successfullRegistration1": "রেজিস্ট্রেশন সফল হয়েছে",
+        "successfullRegistration2": "আপনি ভেস্টিজের একজন ডিস্ট্রিবিউটার হয়ে গেছেন",
+        "registrationFailed": "রেজিস্ট্রেশন ব্যর্থ হয়েছে!!! অনুগ্রহ করে আবার চেস্টা করুন",
+        "validUpline": "অনুগ্রহ করে বৈধ আপলাইন আইডি নির্বাচন করুন",
+        "invalidUpline": "অবৈধ আপলাইন আইডি, অনুগ্রহ করে বৈধ আপলাইন এন্টার করুন. এটি 8 টি নম্বরের হতে হবে. কোনো বিশেষ ক্যারাক্টার ব্যবহার করা যাবে না",
+        "invalidName": "অবৈধ নাম, অনুগ্রহ করে বৈধ নাম এন্টার করুন",
+        "invalidUserTitle": "অনুগ্রহ করে আপনার পদবী নির্বাচন করুন",
+        "invalidLastName": "অবৈধ শেষ নাম, অনুগ্রহ করে বৈধ শেষ নাম এন্টার করুন",
+        "invalidUserGender": "অনুগ্রহ করে আপনার লিঙ্গ নির্বাচন করুন.",
+        "invalidPhoneNumber": "অবৈধ ফোন নম্বর ",
+        "invalidAddress": "অবৈধ ঠিকানা, বৈধ ঠিকানা লিখুন, এটি 1 থেকে 100 অক্ষরের মধ্যে হতে হবে ",
+        "invalidEmail": "অবৈধ ইমেল আইডি. অনুগ্রহ করে বৈধ ইমেল আইডি এন্টার করুন",
+        "invalidPassword": "পাসওয়ার্ড নূন্যতম 6 অক্ষরের হতে হবে. স্পেস ব্যবহার করা যাবে না.",
+        "invalidConfirmPassword": "নিশ্চিত পাসওয়ার্ড নূন্যতম 6 অক্ষরের হতে হবে. স্পেস ব্যবহার করা যাবে না.",
+        "invalidMatchPassword": "পাসওয়ার্ড ম্যাচ করছে না ",
+        "invalidDistributorId": "অবৈধ ডিস্ট্রিবিউটর আইডি ",
+        "invalidDob": "অবৈধ জন্মতারিখ, আপনি উপযুক্ত নন, আপনার বয়স 18 বছরের কম",
+        "invalidPanNumber": "অবৈধ প্যান নম্বর, অনুগ্রহ করে বৈধ প্যান নম্বর এ্রন্টার করুন   ",
+        "invalidCoDistributorTitle": "অনুগ্রহ করে সহ-ডিস্ট্রিবিউটরের পদবী নির্বাচন করুন ",
+        "invalidCodistributorDob": "সহ-ডিস্ট্রিবিউটরের অবৈধ জন্মতারিখ, সহ-ডিস্ট্রিবিউটরের বয়স 18 বছরের কম",
+        "invalidCoDistributorName": "সহ-ডিস্ট্রিবিউটরের অবৈধ নাম, অনুগ্রহ করে সহ-ডিস্ট্রিবিউটরের বৈধ নাম এন্টার করুন",
+        "invalidCoDistributorLastName": "সহ-ডিস্ট্রিবিউটরের অবৈধ শেষ নাম, অনুগ্রহ করে সহ-ডিস্ট্রিবিউটরের বৈধ শেষ নাম এন্টার করুন",
+        "invalidPinCode": "অনুগ্রহ করে বৈধ পিনকোড প্রদান করুন",
+        "invalidCountry": "অনুগ্রহ করে আপনার দেশ নির্বাচন করুন",
+        "invalidState": "অনুগ্রহ করে আপনার রাজ্য নির্বাচন করুন",
+        "invalidCity": "অনুগ্রহ করে আপনার শহর নির্বাচন করুন",
+        "invalidDistributor": "অনুগ্রহ করে আপনার ডিস্ট্রিবিউটর আইডি নির্বাচন করুন",
+        "noDownlineFound": "এই ইউজারের জন্য কোনো ডাউনলাইন পাওয়া যায়নি!",
+        "noDownlineForLoggedInDistributor": "আপনার জন্য কোনো ডাউনলাইন পাওয়া যায়নি!",
+        "noUpline": "এই ইউজারের জন্য কোনো আপলাইন পাওয়া যায়নি!",
+        "distributorError": "অবৈধ ডিস্ট্রিবিউটর আইডি ",
+        "stateError": "অনুগ্রহ করে প্রথমে দেশ নির্বাচন করুন",
+        "cityError": "অনুগ্রহ করে প্রথমে রাজ্য নির্বাচন করুন",
+        "registrationHeading": "রেজিস্ট্রেশন সফল হয়েছে!!! ",
+        "notEligible": "আপনি ডিস্ট্রিবিউটর হবার জন্য উপযুক্ত নন ",
+        "registrationSuccessfull": "আপনি ভেস্টিজের একজন ডিস্ট্রিবিউটার হয়ে গেছেন!!! ",
+        "title": "সাইন আপ করুন ",
+        "enterReferral": "একটি বৈধ রেফারাল কোড এন্টার করুন",
+        "invalidReferralCode": "অবৈধ রেফারাল কোড",
+        "joiningUnder": "আপনি এনার তত্ত্বাবধানে যোগদান করবেন: ",
+        "referralSuccess": "রেফারাল কোড সফলভাবে প্রয়োগ করা হয়েছে",
+        "refferalCodeError": "অবৈধ রেফারাল কোড"
+      },
+      "location": {
+        "locationSave": "লোকেশান সফলভাবে সেভ করা হয়েছে",
+        "unableToSave": "আমরা আপনার লোকেশান সেভ করতে অক্ষম. অনুগ্রহ করে এটি ম্যানুয়ালি সেট করুন",
+        "addressError": "অনুগ্রহ করে বিস্তৃত ঠিকানা পূর্ণ করুন",
+        "pincodeRequired": "অনুগ্রহ করে প্রথমে আপনার পিনকোড পূর্ণ করুন",
+        "mandatoryError": "অনুগ্রহ করে সমস্ত প্রয়োজনীয় ক্ষেত্র পূর্ণ করুন",
+        "noStoreFound": "আপনার এলাকায় কোনো স্টোর খুঁজে পাওয়া যায়নি",
+        "noStorePickupAvailable1": "দুঃখিত, বর্তমানে আপনার এলাকায় আমাদের কোনো স্টোর নেই",
+        "noStorePickupAvailable2": "অনুগ্রহ করে অন্য কোনো পিনকোড বা হোম ডেলিভারি দিয়ে চেস্টা করুন",
+        "detectLocationError": "লোকেশান উপলব্ধ নেই!!! অনুগ্রহ করে আবার চেস্টা করুন",
+        "locationPermission1": "লোকেশানের অনুমতি,",
+        "locationPermission2": "অনুগ্রহ করে সেটিং খুলুন এবং ভেস্টিজের জন্য লোকেশানের অনুমতি সক্ষম করুন",
+        "inputType": "এখানে কোনো বিশেষ ক্যারাক্টার ব্যবহার করা যাবে না . শুধু নম্বর ব্যবহার করা যাবে",
+        "locationPermissionTitle": "লোকেশানের অনুমতি সক্ষম করুন",
+        "locationPermissionMessage": "আপনার লোকেশানের উপর ভিত্তি করে ট্রেন্ডিং কন্টেন্টগুলি রেকমেন্ড করুন",
+        "validData": "অনুগ্রহ করে বৈধ ডেটা প্রদান করুন",
+        "enableLocation": "অবস্থান সেবা সক্রিয় করুন",
+        "unableTogetLocation": "আমরা আপনার লোকেশান পেতে অক্ষম. অনুগ্রহ করে অন্য কোনো লোকেশান দিয়ে চেস্টা করুন বা ম্যানুয়ালি লোকেশান সেট করুন"
+      },
+      "cartVoucher": {
+        "validGiftVoucher": "অনুগ্রহ করে বৈধ গিফট ভাউচার প্রদান করুন",
+        "successfullyApplied": "কুপন সফলভাবে প্রয়োগ করা হয়েছে.",
+        "invalidCoupon": "অবৈধ কুপন",
+        "validBonusVoucher": "অনুগ্রহ করে বৈধ বোনাস ভাউচার প্রদান করুন",
+        "successfullyAppliedBonus": "বোনাস ভাউচার সফলভাবে প্রয়োগ করা হয়েছে ",
+        "invalidBonus": "অবৈধ বোনাস ভাউচার"
+      }
+    },
+    "referralScreen": {
+        "referralCodeTitle": "আপনার রেফারাল কোড শেয়ার করুন ",
+        "copiedToCLipBoardTitle": "ক্লিপবোর্ডে কপি করা হয়েছে!",
+        "message1": "ভেস্টিজের বিস্তৃত নেটওয়ার্কের সাথে আপনার কাছের মানুষদের যুক্ত করার জন্য রেফার করুন",
+        "message2": "ভেস্টিজ পরিবারের অংশ হওয়ার সুবিধাগুলি তাদের উপভোগ করতে দিন",
+        "message3": "তাদের সুস্বাস্থ্য কামনা করি"
+      },
+      "failureScreen": {
+        "errorHeading": "ওহো! কোন ইন্টারনেট নেই",
+        "errorMessage": "আপনার নেটওয়ার্ক সংযোগ চেক করুন",    
+        "retry": "আবার চেষ্টা কর"
+      },
+      "viewCartScreen": {
+        "totalEarnedPv": "মোট উপার্জিত পিভি",
+        "totalAmountToBePaid": "মোট রাশি যা পে করতে হবে",
+        "inventoryMessageTitle": "জিনিসপত্র সম্পর্কিত বার্তা",
+        "singleCartInventoryMessage": "আপনার কার্টটি রিভিউ করুন এবং চেক আউট নিশ্চিত করার জন্য লাল রঙ করা প্রোডাক্টগুলি সরিয়ে ফেলুন",
+        "inStockAvailableProducts": "আপনার অর্ডার করা প্রোডাক্টগুলি স্টকে উপলব্ধ আছে. অনুগ্রহ করে আপনার অর্ডার নিশ্চিত করতে এগিয়ে যান ",
+        "alertButtonTextOk": "ঠিক আছে",
+        "alertButtonTextConfirm": "নিশ্চিত করুন",
+        "alertButtonTextReviewCart": "কার্ট রিভিউ করুন ",
+        "inventoryIsNotAvailableRightNow": "জিনিসপত্র এই মুহূর্তে উপলব্ধ নেই, অনুগ্রহ করে আপনার কার্ট রিফ্রেশ করুন "
+      },
+      "addNewAddressScreen": {
+        "screenTitle": "নতুন ঠিকানা যোগ করুন ",
+        "addressKey": "ঠিকানা",
+        "addressType": "ঠিকানার ধরন",
+        "defaultAddress": "এটিকে আমার মুখ্য ঠিকানা হিসেবে সেট করুন ",
+        "confirmAddressButtonTitle": "ঠিকানা নিশ্চিত করুন"
+      },
+      "cartCheckout": {
+        "screenTitle": "অর্ডার সারাংশ",
+        "cashOrdersPlacedSuccessfullyMessage": "ক্যাশ অর্ডারগুলি সফলভাবে দেওয়া হয়েছে, অনলাইন রাশি পে করতে এগিয়ে যান ",
+        "totalCashAmount": "মোট রাশি (ক্যাশ)",
+        "totalOnlineAmount": "মোট রাশি(অনলাইন)",
+        "shippingAmount": "শিপিং রাশি",
+        "totalAmountToBePaid": "মোট রাশি যা পে করতে হবে",
+        "totalOrderSummary": "অর্ডার সারাংশ",
+        "orderId": "অর্ডার আইডি :",
+        "continueShoppingButton": "আরো কেনাকাটা করুন",
+        "payOnlineText": "অনলাইন পেমেন্ট করুন",
+        "completeOrderText": "অর্ডার সম্পূর্ণ করুন ",
+        "quantityText": "পরিমাণ:",
+        "priceText": "Price: ",
+        "deliveryAddress": "ডেলিভারির ঠিকানা",
+        "storeAddress": "স্টোরের ঠিকানা"
+      },
+      "consistencyScreen": {
+        "invoiceNumber": "চালান নম্বর",
+        "amount": "রাশি",
+        "voucherType": "ভাউচারের ধরণ",
+        "voucherStatus": "ভাউচারের স্থিতি",
+        "invoiceNo": "চালান নং",
+        "voucherNo": "ভাউচার নম্বর",
+        "monthTitle": "মাস",
+        "totalInvoiceTitle": "মোট চালান "
+      },
+      "locationScreen": {
+        "screenTitle": "ডেলিভারির ঠিকানা",
+        "timingsKey": "সময় :",
+        "distanceKey": "দূরত্ব:",
+        "selectDeliveryType": "আপনার ডেলিভারির ধরণ নির্বাচন করুন ",
+        "noAddressesAddedTitle": "এখনো পর্যন্ত কোনও ঠিকানা যোগ করা হয়নি. অনুগ্রহ করে নতুন ঠিকানা যোগ করুন.  ",
+        "addNewAddress": "নতুন ঠিকানা যোগ করুন ",
+        "recentAddressesTitle": "সাম্প্রতিক ঠিকানাগুলি",
+        "locationOptions": "ডেলিভারি/ পিক আপের ঠিকানা",
+        "locationScreenButtonTitle": "সেভ করুন",
+        "noServicesMessage": "আমরা আপনার দেশে পরিষেবা প্রদান করছি না",
+        "selectStorePickup": "অনুগ্রহ করে পিক-আপের জন্য আপনার স্টোর নির্বাচন করুন ",
+        "detectLocationKey": "অবস্থান শনাক্ত করুন",
+        "addressDetail": "ঠিকানার বিবরণ"
+      },
+      "myNetworkScreen": {
+        "previousPv": "পূর্ববর্তী সংযোজক পিভি",
+        "exclusivePv": "এক্সক্লুসিভ পিভি",
+        "selfPv": "নিজস্ব পিভি",
+        "groupPv": "গ্রুপ পিভি",
+        "totalPv": "মোট পিভি",
+        "mainUpline": "প্রধান আপলাইন",
+        "upline": "আপলাইন",
+        "downline": "ডাউনলাইন",
+        "pointValue": "পয়েন্টের মান "
+      },
+      "myTrainingScreen": {
+        "budgetDetails": "বাজেটের বিবরণ দেখুন",
+        "venueRent": "স্থানটির ভাড়া ",
+        "travel": "ভ্রমণ",
+        "hotel": "হোটেল",
+        "food": "খাদ্য",
+        "misc": "বিবিধ",
+        "honorarium": "দক্ষিণা চার্জ",
+        "searchBy": "নিম্নলিখিতগুলির দ্বারা সার্চ করুন",
+        "editTraining": "ট্রেনিং এডিট করুন",
+        "newTraining": "নতুন ট্রেনিং"
+      },
+      "notification": {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "time": "আজ | 2:00পিএম'",
+        "title": "বিজ্ঞপ্তি"
+      },
+      "order": {
+        "confirmation": "নিশ্চিতকরণ",
+        "orderConfirmed": "আপনার অর্ডার নিশ্চিত হয়েছে",
+        "thanks": "কেনাকাটা করার জন্য ধন্যবাদ",
+        "notShipped": "আপনার অর্ডার বিতরণের জন্য এখনও শিপ করা হয়নি, কিন্তু যখন শিপ করা হবে আমরা আপনাকে একটি ই-মেল পাঠাবো ",
+        "cartDetails": "কার্টের বিবরণ দেখুন",
+        "shippingAddress": "শিপিং-এর ঠিকানা ",
+        "backToHome": "হোমপেজে ফেরত যান",
+        "searchBy": "নিম্নলিখিতগুলির দ্বারা সার্চ করুন",
+        "myOrder": {
+          "heading": "আমার অর্ডার"
+        },
+        "orderDetails": {
+          "heading": "অর্ডারের বিবরণ ",
+          "alertHeading": "অর্ডার বাতিল করুন",
+          "alertMessage": "আপনি কি সত্যিই আপনার অর্ডারটি বাতিল করতে চান? ",
+          "cancelButton": "অর্ডার বাতিল করুন",
+          "orderNo": "অর্ডার নম্বর",
+          "itemNo": "জিনিসপত্রের সংখ্যা   ",
+          "orderDate": "অর্ডারের তারিখ",
+          "orderTotal": "মোট অর্ডার",
+          "orderStatus": "অর্ডারের স্থিতি",
+          "deliveyMode": "ডেলিভারির ধরণ ",
+          "paymentMode": "পেমেণ্টর ধরণ",
+          "distId": "ডিস্ট্রিবিউটরের আইডি",
+          "distName": "ডিস্ট্রিবিউটরের নাম",
+          "storePick": "স্টোর থেকে পিক-আপ",
+          "shipping": "শিপিং-এর ঠিকানা ",
+          "productName": "প্রোডাক্টের নাম",
+          "discount": "ছাড়",
+          "totalAmount": "মোট রাশি"
+        }
+      },
+      "payment": {
+        "selectMethod": "আপনার পেমেন্টের ধরণ নির্বাচন করুন ",
+        "amountToPay": "মোট রাশি যা পে করতে হবে",
+        "title": "পেমেণ্ট",
+        "paymentFailure": "পেমেণ্ট ব্যর্থ",
+        "paymentFailed": "পেমেণ্ট বিফল হয়েছে"
+      },
+      "payout": {
+        "generateBonus": "বোনাস ",
+        "cancel": "বাতিল করুন"
+      },
+      "recommendation": {
+        "title": "সুপারিশ ",
+        "detailsTitle": "সুপারিশের বিবরণ",
+        "distId": "ডিস্ট্রিবিউটরের আইডি",
+        "percentage": "শতকরা হার  (%)",
+        "or": "অথবা",
+        "setTarget": "আপনার লক্ষ্য ঠিক করুন",
+        "level": "লেভেল",
+        "go": "যান",
+        "totalPv": "মোট পিভি",
+        "qualifiedLeg": "বর্তমান কুয়ালিফায়েড লেগ  ",
+        "targetLeg": "নির্ধারিত লেগ",
+        "currentMaintain": "বর্তমান সাইড রক্ষণাবেক্ষণ",
+        "targetMaintain": "নির্ধারিত রক্ষণাবেক্ষণ",
+        "currentPv": "বর্তমান সংযোজক পিভি",
+        "existingBonus": "বিদ্যমান বোনাসের শতাংশ",
+        "shortPoint": "কম পয়েন্ট"
+      },
+      "shoppingHomeScreen": {
+        "title": {
+          "category": "ক্যাটাগরি দ্বারা কেনাকাটা করুন",
+          "pv": "পিভির মাধ্যমে কেনাকাটা করুন",
+          "new": "নতুন লঞ্চ করা প্রোডাক্ট",
+          "sponsor": "স্পন্সর করা প্রোডাক্ট ",
+          "inCart": "আপনার কার্টে থাকা জিনিসগুলি",
+          "recentView": "সম্প্রতি দেখেছেন"
+        }
+      },
+      "headerComponent": {
+        "storePic": "স্টোর থেকে পিক-আপ",
+        "homeDelivery": "হোম ডেলিভারি",
+        "cancel": "বাতিল করুন",
+        "skip": "স্কিপ করুন",
+        "cameraPressed": "Camera Pressed",
+        "microPhone": "Microphone Pressed"
+      },
+      "profile": {
+        "title": "আমার প্রোফাইল",
+        "noPincode": "কোনও পিন কোড পাওয়া যায়নি",
+        "noAddress": "কোনও ঠিকানা পাওয়া যায়নি",
+        "noCity": "কোনও শহর পাওয়া গেলো না",
+        "noState": "কোনও রাজ্য পাওয়া যায়নি ",
+        "noCountry": "কোনও দেশ পাওয়া যায়নি "
+      },
+      "cartVouchersScreen": {
+        "screenTitle": "ভাউচারগুলি",
+        "quantityKey": "পরিমাণ",
+        "noPromotionsAvailableTextMessage": "দুঃখিত,  এই মুহূর্তে কোনও প্রচারমূলক ভাউচার উপলব্ধ নেই",
+        "pleaseTryAgainMessage": "অনুগ্রহ করে পুনরায় চেষ্টা করুন!",
+        "noPromotionsFoundForYou": "দুঃখিত, আপনার জন্য কোনও প্রচারমূলক ভাউচার পাওয়া যায়নি ",
+        "promotionsKey": "প্রচার ",
+        "enterGiftVoucherCode": "গিফ্ট ভাউচারের কোডটি এন্টার করুন",
+        "enterBonusVoucherCode": "বোনাস ভাউচারের কোড এন্টার করুন ",
+        "proceedButtonTitle": "এগিয়ে যান"
+      },
+      "winnerDetailModalBox": {
+        "topCarWinners": "সেরা গাড়ী বিজেতা",
+        "topHomeWinners": "সেরা বাড়ি বিজেতা ",
+        "topTripWinners": "সেরা ভ্রমণ বিজেতা",
+        "noDataFoundText": "কোনও তথ্য পাওয়া যায়নি"
+      },
+      "levelComponent": {
+        "targetKey": "লক্ষ্য ",
+        "ptsKey": "পয়েন্ট ",
+        "groupPv": "গ্রুপ পিভি",
+        "myNetwork": "আমার নেটওয়ার্ক"
+      },
+      "userProfileComponent": {
+        "trainerTitle": "ট্রেনার",
+        "lastMonthLevelTitle": "আগের মাসের লেভেল",
+        "nextLevel": "পরবর্তী লেভেল ",
+        "myPv": "আমার পিভি",
+        "groupPv": "গ্রুপ পিভি",
+        "myNetworkTitle": "আমার নেটওয়ার্ক",
+        "recommendationTitle": "পরামর্শ",
+        "referAFriendTitle": "একজন বন্ধুকে রেফার করুন"
+      },
+      "emptyScreenMessages": {
+        "cartEmptyMessage": "আপনার কার্ট এইমুহূর্তে খালি আছে",
+        "orderListEmpty": "আপনার অর্ডারের তালিকা খালি রয়েছে",
+        "noVouchersMessage": "আপনার কোনও ভাউচার নেই",
+        "noNotificationsMessage": "কোনও বিজ্ঞপ্তি নেই",
+        "noResultFoundMessage": "কোনও ফলাফল পাওয়া যায়নি",
+        "noProductsFoundMessage": "কোনও প্রোডাক্ট পাওয়া যায়নি ",
+        "noDataFoundMessage": "কোনও তথ্য পাওয়া যায়নি",
+        "emptyDownlineCartMessage": "ডাউনলাইন কার্ট খালি.  তাদের জন্য খুঁজুন, যোগ করুন এবং কেনাকাটা শুরু করুন "
+      },
+      "createDownlineCartComponent": {
+        "validateButtonText": "বৈধতা যাচাই করুন",
+        "cartCreatedSuccessfullyTitle": "কার্ট সফলভাবে তৈরি করা হয়েছে",
+        "createAnotherCart": "অন্য একটি কার্ট তৈরি করুন",
+        "continueShopping": "আরো কেনাকাটা করুন",
+        "idKey": "আইডি",
+        "alreadyAddedTitle": "ইতিমধ্যে যুক্ত হয়েছে",
+        "createCartButtonTitle": "কার্ট তৈরি করুন",
+        "createCartForDownline": "ডাউনলাইনদের জন্য কার্ট তৈরি করুন",
+        "createAnotherCartMessage": "অন্য একটি কার্ট তৈরি করুন",
+        "shopNowButtonText": "এখনই কিনুন"
+      },
+      "coachMarksInformation": {
+        "menuTooltipTitle": "মেনু খোলার জন্য আইকনটিতে ক্লিক করুন",
+        "notificationsTooltipTitle": "বিজ্ঞপ্তি দেখার জন্য বেল আইকনে ক্লিক করুন ",
+        "dashboardTooltipTitle": "ব্যবহারকারীর ড্যাশবোর্ড",
+        "dashBoardDescriptionInfo": {
+          "firstPoint": "#আপনার নেটওয়ার্ক, পিভি, ফান্ড ইত্যাদি দেখুন",
+          "secondPoint": "#আপনার ডাউনলাইনে নতুন সদস্যদের স্বাগত জানান ",
+          "thirdPoint": "#ভেস্টিজের প্রেরণামূলক ভিডিও দেখুন",
+          "fourthPoint": "#ব্র্যান্ড, ক্যাটাগরি এবং পিভির মাধ্যমে সরাসরি কেনাকাটা করুন",
+          "fifthPoint": "#ভেস্টিজের অর্জনকারীদের দেখার জন্য  "
+        },
+        "shoppingTooltipTitle": "শপিং",
+        "shoppingTabInfo": {
+          "firstPoint": "#  সাম্প্রতিক প্রচারগুলি দেখুন .",
+          "secondPoint": "# ক্যাটাগরি ব্র্যান্ড পিভি ইত্যাদির মাধ্যমে শীঘ্র কেনাকাটা করুন .",
+          "thirdPoint": "# কেনাকাটার জন্য সুপারিশ  পান",
+          "fourthPoint": "# অন্যান্য ডিস্ট্রিবিউটর দ্বারা প্রায়শই ক্রয় করা প্রোডাক্টগুলি দেখুন "
+        },
+        "searchAnItemTitle": "জিনিস সার্চ করুন",
+        "searchTabInfo": {
+          "firstPoint": "# নাম, ব্র্যান্ড, ক্যাটাগরি ইত্যাদির মাধ্যমে পছন্দমত প্রোডাক্টগুলি খুঁজুন",
+          "secondPoint": "# কার্টে সরাসরি আপনার প্রোডাক্টগুলি যোগ করুন ",
+          "thirdPoint": "# আপনার খোঁজার ফলফাফলগুলি সর্ট এবং ফিল্টার করুন"
+        },
+        "wishlistTitle": "উইশলিস্ট",
+        "wishListDescription": "# আপনার উইশলিস্টে যুক্ত হওয়া সমস্ত প্রোডাক্ট দেখতে পারেন",
+        "yourCartTitle": "আপনার কার্ট ",
+        "yourCartTabInfo": {
+          "firstPoint": "# আপনার এবং আপনার ডাউনলাইনের জন্য তৈরি বিবিধ অর্ডার কার্টে আইটেম যোগ করা হয়েছে ",
+          "secondPoint": "# আপনি মাত্র একটা ক্লিকেই এক বা বিবিধ কার্ট থেকে চেক আউট করতে পারেন ",
+          "thirdPoint": "# আপনি অনলাইন বা ক্যাশ পেমেন্ট নির্বাচন করতে পারেন"
+        }
+      }
+    }
+  

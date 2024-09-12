@@ -1,0 +1,1249 @@
+{
+  "onboardingScreen": {
+    "buttonSignIn": "Sign In",
+    "buttonSignUp": "Sign Up",
+    "onboarding": [{
+      "title": "Global Presence", 
+      "subTitle":"Now enjoy double advantage. Shop your favourite Vestige products and remain updated with news and offers of Vestige at a single place."
+    },
+      {
+        "title": "Wish you Wellth", 
+        "subTitle":"Your Vestige business offers you multiple benefits such as Travel Fund, Car Fund, House Fund and more. Get ahead in Vestige business and avail the benefits."
+      },
+      {
+        "title": "Think Global", 
+        "subTitle":"Connectivity is vital for us. Vestige keeps you digitally connected with your business, network and success graph 24x7."
+      }]
+  },
+  "drawerScreen": {
+    "categories":"Categories", 
+    "brands":"Brands" , 
+    "vbd":"VBD Stores" ,
+    "news":"News" , 
+    "gallery":"Gallery" , 
+    "branches":"Vestige Branches" , 
+    "aboutUs":"About US" , 
+    "help":"Help" ,
+    "level":"My Level" , 
+    "groupPv":"My Group PV" , 
+    "kyc":"My KYC",
+    "network":"My Network" , 
+    "consistency":"My Consistency" , 
+    "funds":"My Funds" , 
+    "voucher":"My Voucher" , 
+    "bonus":"My Bonus" , 
+    "training":"My Training" , 
+    "trainingDashboard":"Training Dashboard" , 
+    "recommendation":"Recommendation",
+    "refer":"Refer a Friend",
+    "order":"My Orders" , 
+    "orderLog":"Make Payment" , 
+    "password":"Change Password" ,
+    "signOut":"Sign Out" ,
+    "profile": "My Profile",
+    "distributorIdCard": "Distributor Id Card",
+    "myBusinessInsights": "My Business Insights",
+    "aboutUS": "About Us",
+    "bankPan": "Bank/PAN Details",
+    "daf": "DAF Details",
+    "birthdayList": "Birthday List",
+    "LoggedIn_Devices": "Logged-In Devices",
+    "My_Prospect": "My Prospect",
+    "vestigeNews": "Vestige News",
+    "courierDetails": "Courier Details",
+    "mobileNumberUpdate": "Update Mobile Number",
+    "contactUs": "Contact Us",
+    "privacyPolicy":"Privacy Policy"
+  },
+  "mobileNumberUpdate": {
+    "mobileNumberUpdateScreenTitle": "Update Mobile Number",
+    "mobileNumberUpdateHeading": "Update your\nregistered mobile number\nthrough below options",
+    "optionViaMobileTitle": "Option via Registered Mobile Number",
+    "optionViaMobileDescription": "You can update your number via OTP verification on your old & new mobile number. This process usually takes only a few minutes to complete.",
+    "optionViaWebsiteTitle": "Option via www.myvestige.com",
+    "optionViaWebsiteSubTitle": "Follow the steps to Update Mobile Number.",
+    "updateUsingMobileTitle1": "Verify Your Current \nRegistered Mobile Number & Update \nNew Mobile Number",
+    "updateUsingMobileTitle2a": "We will send you ",
+    "updateUsingMobileTitle2b": "One Time Password \n",
+    "updateUsingMobileTitle2c": "on this current registered mobile number & new mobile number.",
+    "registeredMobileNumberText": "Your Current Registered Mobile Number",
+    "newMobileInputPlaceholder": "Enter New Mobile Number",
+    "getOtpButton": "Get OTP",
+    "verifyProceedButton": "Verify & Proceed",
+    "tryAnotherWay": "Try another way",
+    "otpVerificationTitle": "OTP Verification",
+    "otpVerificationMobileDescription": "We've sent 4 digit OTP verification code on your current registered mobile number & new mobile number.",
+    "successTitle": "Success",
+    "successMessage": "You have successfully \nupdated your registered mobile number.",
+    "failTitle": "OTP Authentication Failed!",
+    "failMessage": "Please try again in a few hours",
+    "goToHomeButton": "Go to Home",
+    "enterOtpSent": "Enter the OTP Sent to ",
+    "didNotRecieveOtp": "Didn’t receive the OTP? ",
+    "resendOtp": "RESEND OTP ",
+    "resendOtpMessage": "OTP has been sent successfully.",
+    "errorMessage": {
+      "validMobileNumber": "Please Enter Valid Mobile Number",
+      "enterOtp": "Please enter 4 digit OTP for both numbers.",
+      "invalidOtp": "Please enter Valid OTP.",
+      "mobileUpdateRestrictionPart1": "As a mobile number was registered recently, a new number cannot be updated now. Please try again after a total of ",
+      "mobileUpdateRestrictionPart2": " days have passed since the last time you registered a mobile number."
+    }
+    
+  },
+  "myProspect": {
+    "prospectName": "Prospect Name",
+    "prospectId": "Distributor ID",
+    "registeredOn": "Registered On",
+    "tncStatus": "T&C Status",
+    "ekycStatus": "E-KYC Status",
+    "sendMessage": "Send Message",
+    "messageSentSuccess": "Message sent successfully",
+    "noProspect": "Currently, there is no Prospect to display."
+  },
+  "courierDetails":{
+    "invoiceNo": "Log/Invoice no.",
+    "amount": "Amount",
+    "dispatchDate": "Dispatch Date",
+    "docketNo": "Docket No",
+    "courierContact": "Courier Contact",
+    "courierCompanyName": "Courier Company"
+  },
+  "graphPv": {
+    "screenTitle": "PV Details",
+    "pvTypes":{
+      "myPv":"MY PV",
+      "groupPv":"Group PV",
+      "totalPv":"Total PV",
+      "exclusivePV": "Exclusive PV",
+      "selfPv": "Self PV",
+      "currentCumulativePv": "Current Cumulative PV",
+      "nextLevel": "Next Level",
+      "shortPoints": "Short Points",
+      "lastMonthPointDetails": "Last Month Point Details",
+      "previousExclusivePv": "Previous Exclusive PV",
+      "previousSelfPv": "Previous Self PV",
+      "previousTotalPv": "Previous Total PV",
+      "lastMonthLevel": "Last Month Level",
+      "currentMonthPointDetails": "Current Month Point Details",
+      "previousCumulativePv": "Previous Cumulative PV",
+      "actualPv": "Actual PV",
+      "previousActualPv": "Previous Actual PV",
+      "monthlyActualPv": "Monthly Actual PV Details"
+    }
+  },
+  "myFund": {
+    "screenTitle": "My Funds",
+    "fundTypes":{
+      "carFund":{
+      "title":"Car Funds",
+      "displayName":"Car Fund"
+      },
+      "travelFund":{
+        "title":"Travel Funds",
+        "displayName":"Travel Fund"
+      },
+      "houseFund":{
+        "title":"House Funds",
+        "displayName":"House Fund"
+      }
+    },
+    "fundDetailKeys":{
+      "Opening": "Opening",
+      "Balance": "Balance",
+      "Paid": "Paid",
+      "New": "New",
+      "Remark": "Remark"
+    },
+    "detailsHeading":"Details",
+    "currency":"Rs." 
+  }, 
+"addToCart": {
+  "buyingPreference": "Buying Preference",
+  "buyingOption1": "For Self",
+  "buyingOption2": "Buy for Downline",
+  "addToCartButtonTitle": "Create Cart for downline",
+  "ContinueShopping":"Continue Shopping",
+  "removeCart": "Are you sure want to remove cart?",
+  "removeCart2": "Product will also be removed from cart",
+  "removeCartHeading":"Remove Cart",
+  "downlineSearchError":"Sorry! you cannot search your own Id",
+  "addMoreText": "ADD MORE"
+},
+ "cartListProduct": {
+   "removeItem":"Do you really want to remove it?",
+    "alertMessageHeading": "Alert!",
+    "onlineDisabled":"Online payment option is not allowed for the selected address. You can continue shopping via cash only.",
+    "cashOnShipping": "You can't select payment mode as CASH because your active delivery type is shipping.",
+    "onlineOnShipping": "Online transactions are disabled in current release. This will be available in one of the next release. For now, please continue with cash option.",
+    "productBeforeCheckout": "Please add address first before checkout.",
+    "emptyCart": "Your cart is empty.",
+    "cartCreated": "Cart created successfully!",
+    "productRemoved": "Your product has been removed!",
+    "useralreadyAdded":"User is already added",
+    "removeCart":"cart removed successfully",
+    "promotionalProducts": "Promotional Products",
+    "giftProducts": "Gift Products",
+    "totalPV": "Total PV",
+    "cartDistributorID": "ID",
+    "emptyCartTitle": "Empty Cart",
+    "vouchersAppliedTitle": "Applied",
+    "vouchersNotAppliedTitle": "Add Vouchers / Promotions",
+    "itemsKey": "Items",
+    "total": "Total",
+    "bonusDiscount": "Bonus Discount",
+    "giftVoucher": "Gift Voucher",
+    "promoCost": "Promotion Cost",
+    "orderTotal": "Order Total",
+    "paymentMethod": "Payment Method",
+    "cashButton": "Cash",
+    "onlineButton": "Online",
+    "deleteCartText": "Delete Cart ",
+    "checkoutButtonText": "Checkout",
+    "createCartForDownline": "You are allowed to create a maximum of three downline carts in one transaction.",
+    },
+  "commonMessages": {
+    "parsingError": "Server error!, Please try again after sometime",
+    "logout":"Do you really want to Logout?",
+    "logoutHeading":"Logout",
+     "ok":"Ok",
+     "cancel":"Cancel",
+     "yes":"Yes",
+     "update":"Update",
+     "no":"No",
+     "done": "Done",
+     "redeem":"Redeem",
+     "cartDistributorLimit": "Cart is only for distributor user",
+     "skip": "Skip",
+     "continue": "Continue",
+     "openSetting": "Open Settings",
+     "alert": "Alert!",
+     "searchLimit": "Input Value should be greater than 3 characters.",
+     "noInternet": "No Internet Connection, Please try again after sometime.",
+     "somethingWentWrong":"Something went wrong. ",
+     "tryAgain": "Please try again later",
+     "noProductRelated":"No Products found related to this order.",
+     "validMonth": "Please select valid month!!!",
+     "tokenExpired": "Your session has been expired. Please Login again",
+     "noDataFoundText": "No Data Available for this user",
+     "gotoShopping": "Your cash orders has been placed successfully, click on continue to go to shopping.",
+     "guestUserMessage": "Dear User, You need to enrol yourself as Vestige Distributor to shop. Please post your request for the same on online.vestige@gmail.com",
+     "restrictAddCartCountryMessage": "Dear user, you are not allow to shopping for the current country",
+     "selfFeedback": "Distributor's are not allowed to give feedback to themselves.",
+     "selectFeedbackFirst": "Please select feedback first!",
+     "upto": "You can add only 5 propects",
+     "mobileAlreadyExists": "Mobile no already exist, please check the fields"
+  },
+  "training": {
+    "selectCountry": "Please select country",
+    "selectCity":"Please select city."
+  },
+  "bankPan": {
+    "pan": {
+      "screenTitleMain": "Bank & PAN",
+      "screenTitlePan": "PAN Details",
+      "screenTitleBank": "Bank Details",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "distributorId": "Distributor ID",
+      "panNumber": "PAN Number",
+      "dob": "DOB",
+      "ifsc": "IFSC",
+      "bankName": "Bank Name",
+      "bankBranch": "Bank Branch",
+      "accountNo": "Account No.",
+      "reEnterAccountNo": "Re Enter Account No.",
+      "invalidDistributorId": "Please enter a valid Distributor Id",
+      "invalidIfsc": "Please enter a valid IFSC code",
+      "invalidBankName": "Invalid Bank Name",
+      "invalidBranchNumber": "Invalid Branch",
+      "invalidAccountNumber": "Please Enter Valid Account No.",
+      "confirmAccountNumber": "Please Confirm Account No.",
+      "accountNumberMismatch": "Account No. does not match",
+      "uploadFrontAndBackSide": "Please upload front and back side of Bank Form.",
+      "uploadSingleBankImage": "Please upload an image of bank document.",
+      "reUploadSingleBankImage": "Please re-upload an image of bank document.",
+      "detailsAlreadySubmitted": "You have already submitted the details.",
+      "downlineDetailsAlreadySubmitted": "Details already submitted for this downline.",
+      "uploadedSuccessfully": "Details Uploaded successfully",
+      "ageLimitError": "You must be 18 years or above",
+      "invalidFirstName": "Invalid First Name",
+      "invalidLastName": "Invalid Last Name",
+      "invalidPan": "Invalid Pan Number",
+      "emptyDob": "Please fill DOB",
+      "uploadPan": "Please upload an image of PAN Card",
+      "reUploadPan": "Please re-upload an image of PAN Card.",
+      "singleImageUploadError": "Please remove the already uploaded image and then upload the new one.",
+      "acceptTNC": "Please accept the Terms & Conditions to proceed.",
+      "termsAndConditions": "Vestige Disclosure Policies: \nVestige endeavours to safeguard and ensure the security of the information provided by the Customer. Vestige uses 128-bit encryption, for the transmission of the information, which is currently the permitted level of encryption in India. When the information provided by the Customers is not transmitted through this encryption, the Customers' system (if configured accordingly) will display an appropriate message ensuring the best level of secrecy for the Customer's information. The Customer would be required to cooperate with Vestige in order to ensure the security of the information, and it is recommended that the Customers necessarily choose their passwords carefully such that no unauthorised access is made by a third party. To make the password complex and difficult for others to guess, the Customers should use combination of alphabets, numbers and special characters The Customers should undertake not to disclose their password to anyone or keep any written or other record of the password such that a third party could access it Vestige undertakes not to disclose the information provided by the Customers to any person, unless such action is necessary to:\n• Conform to legal requirements or comply with legal process; \n• Protect and defend Vestige’s or its Affiliates' rights, interests or property; \n• Act to protect the interests of Vestige, its Affiliates, or its members, constituents or of other persons. \n"
+
+    }
+  },
+  "daf": {
+    "distributorId": "Distributor ID",
+    "distributorName": "Distributor Name",
+    "submitBtn": "UPLOAD DAF",
+    "headerTitle": "DAF Details",
+    "invalidDistributorId": "Invalid distributor ID",
+    "invalidName": "Please enter a valid name",
+    "uploadRequiredDocs": "Please upload DAF and Signed ID proof documents.",
+    "detailsAlreadyUploaded": "You have already submitted the details.",
+    "uploadSignedDafFile": "Upload Signed DAF File.",
+    "uploadNotes": "Upload Valid Signed ID Proof(Passport/PAN Card/Driving Licence/Aadhar Card/National Identity)",
+    "uploadPointOne": "1. Please upload DAF with Signature of self and upline.",
+    "uploadPointTwo": "2. Distributor must upload their Passport/PAN Card/Driving Licence/Aadhar Card/National Identity with the signature along with the signed DAF."
+  },
+  "kyc":{
+    "title":"My KYC",
+    "heading":"Get Your KYC Done ",
+    "docChoice":"PLEASE SELECT ANY ONE",
+    "textInputPlaceholder": "Bank Name",
+    "uploadButtonTitle": "Upload",
+    "docType":{
+      "aadhar":{
+        "title":"Aadhaar Card",
+        "placeHolder":"Aadhaar Card Number",
+        "label":"Aadhaar"
+      },
+      "driverLicence":{
+        "title":"Driver Licence",
+        "placeHolder":"Driver Licence Number",
+        "label":"Driver Licence"
+      },
+      "passport":{
+        "title":"Passport",
+        "placeHolder":"Passport Number",
+        "label":"Passport"
+      },
+      "voterId":{
+        "title":"Voter ID",
+        "placeHolder":"Voter ID",
+        "label":"Voter ID"
+      },
+      "bank": {
+        "label": "Bank Details",
+        "submitButtonTitle": "Save"
+      },
+      "pan": {
+        "label": "PAN Details"
+      },
+      "nationalIdentityCard":{
+        "title":"National Identity",
+        "placeHolder":"National Identity Card",
+        "label":"National Identity Card"
+      }
+    },
+    "imageLimit":"Max two images allowed",
+    "imageType":"Only JPG or JPEG supported",
+    "imageSize":"image size exceed 2Mb",
+    "documentMissing":"No document uploaded",
+    "docNoMissing":"Please provide document number",
+    "verificationMessage":"VERIFICATION PENDING",
+    "documentPlaceholder":"Upload front & back side",
+    "aadharNoInvalid": "Please provide valid aadhaar number.",
+    "passportNoInvalid": "Please provide valid Passport Number.",
+    "driverNoInvalid": "Please provide valid Driving License Number.",
+    "invalidVoterId": "Please provide valid Voter Id Number.",
+    "invalidNationalId": "Please provide valid National Id Number.",
+    "uploaded": "Kyc uploaded",
+    "alreadyUploaded": "KYC Already Uploaded",
+    "invalidDistID": "Please provide valid distributor id."
+  },
+  "product":{
+    "pv":"PV",
+    "amountType":"DP",
+    "dealerPrice":"DP",
+    "addToCartText":"Add to Cart",
+    "maxLimit":"There is no more inventory available for this item in this location. Please change the location to buy more.",
+    "selectProduct":"Please select Self or any Downline to add products in the cart.",
+    "addedToCart": "Product added to cart",
+    "queryUpdated": "Query has been sent successfully",
+    "removeWishList":"Product removed from Wishlist",
+    "addWishList":"Product added to Wishlist",
+    "filterTitle": "Filter by",
+    "clearFilter": "Clear All",
+    "applyFilter": "Apply",
+    "productsAvailable1":"Only ",
+    "productsAvailable2": "products available",
+    "view": "View",
+    "sort": "Sort",
+    "filter": "Filter",
+    "sortBy": "Sort by",
+    "recent": "Recent Searches",
+    "selectedRange": "Selected Range",
+    "category": ["Brand","Category","Price","PV"],
+    "itemCode": "Item Code",
+    "outOfStock": "Out Of Stock",
+    "inStock": "In Stock",
+    "inclOfAllTaxes": "(incl. of all taxes)",
+    "orderHere":"Order here",
+    "infoButton": "Info",
+    "otherOptionMessage": "To avail this product go to address bar and change catering location to warehouse."
+  },
+  "productDetails":{ 
+    "title":"Product Details",
+    "pv":"PV",
+    "amountType":"DP",
+    "addToCartText":"Add to Cart",
+    "productVideo": "Product Video",
+    "notify":"Notify Me",
+    "notified":"Notified",
+    "termsAndConditions":"T&C",
+    "quantityHeading":"Quantity",
+    "dealerPrice":"DP",
+    "relatedProducts": "Related Products",
+    "similiarProducts": "Similar Products",
+    "buyFromAnotherLocation": "Add this product from alternate location.",
+    "outOfStockCurrentLoc": "Out of Stock for current catering location",
+    "quantityNotAvailableInWarehouse": "Selected quantity is not available in warehouse. Please reduce the quantity and check for availability.",
+    "productsDetail":{
+      "heading":"Product Details",
+      "description":"Key Features",
+      "unit":"Unit",
+      "type":"Packaging Type",
+      "disclaimer":"Disclaimer"
+    },
+     "widgetsHeading":{
+       "offerText":"Offers",
+       "rating":"Rating & Reviews",
+       "recentSearches":"Recent Searches"
+     },
+     "questions":{
+       "title":"Questions",
+       "queryText":"Have a Query ?",
+       "submit":"Submit"
+     },
+     "addToCart":"Add to Cart",
+     "buyNow":"Buy Now"
+  },
+  "forgotPasswordScreen": {
+    "title": "Forgot your password",
+    "message": "Not to worry. Just give us the missed call from your registered contact number on below number!",
+    "missedCallLabelTitle": "Get the password in a text message"
+  },
+  "loginScreen":{
+    "ButtonSignIn":"Sign In With",
+    "otherUserLoginRestriction": "Dear Distributor, this app is not for Nepal-based users",
+    "distributorIdMobile":"Distributor ID or Mobile Number",
+    "distributorId": "Distributor ID",
+    "distributorPassword":"Enter Password",
+    "distributorOTP":"Enter verification code",
+    "forgotPassword":"FORGOT PASSWORD",
+    "buttonProceed":"Proceed",
+    "buttonLogin":"Login",
+    "buttonSignUp":"Sign Up",
+    "footerTitle":"Don't have an account?",
+    "signUpLabel":"SIGN UP",
+    "validMobileAlert":"Please provide valid mobile number.",
+    "sendOtp":"Send verification code",
+    "otpOnCallText": "Request for verification code via Call",
+    "resendOtp":"Resend verification code",
+    "sendOtpMessage":"Verification code has been sent to your registered mobile number",
+    "resendOtpMessage":"Haven't received verification code yet, Resend verification code?",
+    "otpOnCallMessage": "You will receive a call shortly with verification code",
+    "distributorIdErrorMessage": "Please provide valid distributor id",
+    "passwordErrorMessage": "Please provide valid password",
+    "otpErrorMessage": "Please provide valid verification code",
+    "otpSentForDeviceConfirmation": "verification code has been sent to the registered mobile. Please enter to confirm."
+  },
+  "signUpScreen":{
+    "fosterInput": {
+      "fosterId": "Foster Id"
+    },
+    "validUpline":"Upline ID*",
+    "buttonProceed":"Proceed",
+    "weSendOtpYourNember":"We have sent an verification code on your number",
+    "familyMemberTextDesc":"Have you/any of you family members (Grandparents/Parents/Self/Siblings) been distributor(s) of Vestige in the past or are presently distributor(s) of Vestige?",
+    "personalDetails":{
+      "title":"PERSONAL DETAILS *",
+      "firstName":"First Name",
+      "lastName":"Last Name"
+    },
+    "contactDetails":{
+      "title":"CONTACT DETAILS *",
+      "mobile":"Mobile",
+      "emailId":"Email ID",
+      "pincode":"Pincode",
+      "address":"Address (House No, Street Name, Locality)",
+      "postalCode": "Postal code"
+    },
+    "kycDetails":{
+      "title":"KYC DETAILS *",
+      "aadharCard":"Aadhar Card",
+      "panCard":"Pan Card"
+    },
+    "bankDetails":{
+      "title":"BANK DETAILS *",
+      "bankName":"Bank Name",
+      "bankAccountNumber":"Bank Account Number",
+      "ifscCode":"IFSC code"
+    },
+    "passwordDetails":{
+      "title":"CREATE PASSWORD *",
+      "password":"Password",
+      "confirmPassword":"Confirm Password"
+    },
+    "coDistributorDetails":{
+      "title":"CO-DISTRIBUTOR DETAILS *",
+      "firstName":"First Name",
+      "lastName":"Last Name",
+      "relationship": "Relationship",
+      "address1": "Address 1",
+      "address2": "Address 2",
+      "spouseName":"Name of Spouse/Nominee"
+    },
+    "uplineInput": {
+      "referral": "Referral Code",
+      "or": "OR",
+      "validUpline": "Upline ID",
+      "downlineJoining": "This form is for joining Downline/Prospects"
+    },
+    "fosterdetailsLabel":{
+      "fosterLabel":"FosterID can be same as UplineID or positioned above in network of UplineID"
+    }
+  },
+  "dashboard":{
+    "DistributorID":"Distributor ID-",
+    "titleCategory":"Shop by Category",
+    "brandsStore": "Brands Store",
+    "categoriesTitle": "Categories",
+    "whatTheySaidTitle": "What they said",
+    "titlePv":"Shop by PV",
+    "titleCnc":"Shop by CNC",
+    "viewMore":"View More",
+    "seeMore":"see more products to review",
+    "brands":{
+      "title":"Top Brands",
+      "buttonTitle":"View all brands"
+    },
+    "demoVideo":{
+     "quoteText":"Only way to do great work is to love what you do",
+     "videoContainerText":"Vestige Demo" 
+    }
+  },
+  "changePassword": {
+    "currentPasswordTitle": "Enter Current Password",
+    "newPasswordTitle": "Enter New Password",
+    "buttonTitle": "Change Password",
+    "errCurrentPassword":"Current password must be minimum 6 characters. Spaces are not allowed",
+    "errNewPassword":"New Password must be minimum 6 characters and it should contain at least one letter, one number and one special character.",
+    "errConfirmPassword":"Confirm Password must be minimum 6 characters and it should contain at least one letter, one number and one special character.",
+    "errMatchPassword":"New password doesn't match confirm password",
+    "emptyCurrentPassword": "Please enter current password",
+    "emptyNewPassword": "Please enter new Password",
+    "emptyConfirmPassword": "Please enter confirm Password",
+    "screenTitle": "Change Password",
+    "samePassword": "New Password can not be same as Current Password.",
+    "warningMessage": "On successful changing password, you will be logged out from all devices and will have to re-login with verification code in App."
+  },
+  "voucherList": {
+    "voucherNo":"Voucher No",
+    "valid":"Valid Upto",
+    "voucherStatus":"Voucher Status",
+    "invoiceNo":"Invoice No",
+    "invoiceDate":"Invoice Date",
+    "voucherApplied": "voucher applied",
+    "voucherAmount": "Voucher Amount",
+    "vouchers": "Vouchers",
+    "apply": "Apply",
+    "or": "OR",
+    "giftVoucherPlaceHolder": "Enter Gift Voucher Code"
+  },
+  "vbdStores": {
+    "title": "VBD Stores",
+    "contactNo":"Contact No.",
+    "address":"Address",
+    "email":"Email" 
+  },
+  "errorMessage": {
+    "internetConnection": {
+      "noInternetConnection": "No Internet Connection, Please try again after sometime.",
+      "noInternetConnectionShort": "No Internet Connection"
+    },
+    "signUp": {
+      "successfullRegistration1": "Registration successful. ",
+      "successfullRegistration2": "You become a distributor with Vestige.Your distributor ID is",
+      "downlineRegistration1": "Dear Distributor, Thank you for the successful registration of the Prospect with ID number -",
+      "downlineRegistration2": "Kindly ask",
+      "downlineRegistration3": "to complete the registration by accepting T&C in Vestige Online Shopping App or https://www.myvestige.com/ .",
+      "registrationFailed": "Registration failed!!! Please try again",
+      "validUpline": "Please select valid Upline ID",
+      "validFoster": "Please enter a valid Foster ID",
+      "invalidUpline": "Invalid Upline id, please enter valid Upline. It must be of 8 numbers long.No Special characters allowed.",
+      "invalidName": "Invalid Name, please enter valid Name",
+      "invalidUserTitle": "Please select your title.",
+      "invalidDate": "Invalid Date of birth",
+      "invalidNomineeDob": "Please enter valid nominee DOB",
+      "minimumNomineeAge": "Nominee age must be between 18 to 100 years to be eligible.",
+      "invalidLastName": "Invalid Last name, please enter valid last name",
+      "invalidUserGender": "Please select your gender.",
+      "invalidPhoneNumber": "Invalid Phone Number",
+      "invalidAddress": "Invalid Address, please enter valid address, It must be between 1 to 100 characters. Allowed characters are: \n A-Z a-z 0-9 _ @ . / # , - ",
+      "invalidEmail": "Invalid Email Id. Please enter valid email",
+      "invalidPassword": "Password must be minimum 6 characters.Spaces are not allowed",
+      "invalidConfirmPassword": "Confirm password must be minimum 6 characters. Spaces are not allowed",
+      "invalidMatchPassword": "Password doesn't match",
+      "invalidDistributorId": "Invalid id, please enter valid id. It must be 8 numbers",
+      "invalidDob": "your age must be between 18 to 100 years to be eligible",
+      "invalidDobThailand": "your age must be between 20 to 100 years to be eligible",
+      "invalidDobMaharashtra": "your age must be between 21 to 100 years to be eligible",
+      "invalidPanNumber": "Invalid Pan Number, Please enter valid pan number",
+      "invalidCoDistributorTitle": "Please select co-destributor title.",
+      "invalidCodistributorDob": "Invalid co-distributor dob, Co-distributor age is below 18",
+      "invalidCoDistributorName": "Invalid co-distributor name, please Enter valid co-distributor name",
+      "invalidCoDistributorLastName": "Invalid co-distributor last name, please Enter valid co-distributor last name",
+      "invalidPinCode": "Please provide valid pincode",
+      "invalidCountry": "Please select your country",
+      "invalidState": "Please select your state",
+      "invalidCity": "Please select your city",
+      "invalidDistributor": "Please select your Distributor ID",
+      "noDownlineFound": "No downline found for this user!",
+      "restrictedDownlineFoundForUser": "You are not authorized to view this downline information due to accessibility restrictions",
+      "noDownlineForLoggedInDistributor": "No downline found for you!",
+      "noUpline": "No Upline found for this user!",
+      "distributorError": "Invalid distributor ID.",
+      "FosterdistributorError": "Invalid Foster distributor ID.",
+      "stateError": "Please select country first.",
+      "cityError": "Please select state first.",
+      "registrationHeading": "Registration successful!!!",
+      "notEligible":"You are not eligible to become distributor",
+      "registrationSuccessfull": "You become a distributor with Vestige!!!",
+      "title": "Sign Up" , 
+      "enterReferral": "Please enter a valid Referral code",
+      "invalidReferralCode": "Invalid referral code",
+      "joiningUnder": "You will be joining under",
+      "referralSuccess": "Referral code has been successfully applied.",  
+      "refferalCodeError": "Invalid referral code",
+      "invalidPincodeEmirates": "Please provide valid pincode/Emirates",
+      "emptyMobileNumber": "Please enter Mobile Number",
+      "invalidMobileNumber": "Invalid mobile number",
+      "invalidPrimaryMobileNumber": "Invalid primary mobile number",
+      "invalidSecondaryMobileNumber": "Invalid secondary mobile number",
+      "passwordValidationMessage": "Password must be minimum 6 characters and it should contain at least one letter, one number and one special character.",
+      "invalidNomineeName": "Invalid Nominee Name",
+      "invalidNomineeFirstName": "Invalid Nominee First Name",
+      "invalidNomineeLastName": "Invalid Nominee Last Name",
+      "invalidNomineeAddressOne": "Invalid Nominee Address 1",
+      "invalidNomineeAdressTwo": "Invalid Nominee Address 2",
+      "firstNameRequired": "Please Enter Nominee First Name",
+      "nomineeRelationshipRequired": "Please Enter Nominee Relationship.",
+      "invalidNomineeRelationship": "Invalid Nominee Relationship",
+      "nomineeDobRequired": "Please Enter Nominee DOB",
+      "mobileNumberVerify": "Please verify your mobile number.",
+      "acceptTnC": "Please accept the Terms & conditions.",
+      "acceptTermAndCondn":"Please accept the Terms & Conditions to proceed.",
+      "acceptAgeCheck": "To proceed, kindly confirm that you fulfill the necessary age criteria and are a citizen of the country.",
+      "termsNConditions": "Terms and Conditions",
+      "agreeTNCTitle": "I have read & agree to the",
+      "invalidOtp": "Please provide correct verification code!",
+      "familyMemberTextError":"Please select family involvement in Vestige field",
+      "ageAgreementMessageThailand": "I am atleast 20 years old and citizen of ",  
+      "ageAgreementMessageOther": "I am atleast 18 years old and citizen of ",
+      "ageAgreementMessageIndia": "I am atleast 18 years old (21 years in case of domicile being Maharashtra) and citizen of ",
+      "lastNameWarning": "Please proceed only if your last name is not available on KYC documents.",
+      "fosterValid": "Please enter valid foster id."
+    },
+    "location": {
+      "locationSave": "Location saved successfully",
+      "unableToSave": "We are unable to save your location. Please set it manually",
+      "addressError": "Please fill the detailed address",
+      "pincodeRequired": "Please fill a valid pincode",
+      "mandatoryError": "Please fill all the required fields",
+      "noStoreFound": "No Store Found in Your locality",
+      "noStorePickupAvailable1": "Sorry, we currently do not have any store at your locality. ",
+      "noStorePickupAvailable2": "Please try different PIN Code or Home Delivery",
+      "detectLocationError": "Location is not available!!! Please try again.",
+      "locationPermission1": "Location Permission,",
+      "locationPermission2": "Please open Settings and enable Location permission for Vestige.",
+      "inputType":"No Special Characters allowed here. Only numeric allowed.",
+      "locationPermissionTitle":"Enable Location Permissions",
+      "locationPermissionMessage":"Recommend trending content based on your location.",
+      "validData": "Please provide valid data",
+      "unableTogetLocation":"We are unable to getting your location. please try with different location or set location manually",
+      "enableLocation": "Please enable location services",
+      "selectedCountryError": "Please select a country",
+      "emptyContactNumber": "Please enter Alternate Mobile Number",
+      "validContactNumber": "Please enter valid Mobile Number"
+    },
+    "cartVoucher": {
+      "validGiftVoucher": "Please provide valid gift voucher.",
+      "successfullyApplied": "Coupon applied successfully.",
+      "invalidCoupon": "Invalid coupon",
+      "validBonusVoucher": "Please provide valid bonus voucher.",
+      "alreadyAddedVoucher": "voucher already added.",
+      "canNotAddMoreVouchers": "Total payable amount for your cart is zero, you can not add more vouchers",
+      "successfullyAppliedBonus": "Bonus voucher applied successfully.",
+      "invalidBonus": "Invalid bonus voucher.",
+      "SchemeBenefitMessage": "Promotion is removed as it is not applicable on 100pv CNC voucher(CSY Series).",
+      "otherVoucherMessage": "Other vouchers cannot be used with new 100pv CNC or PROD voucher(CSY Series).",
+      "quantityExceedsMessagePrefix": "Maximum Qty for  \n  ",
+      "quantityExceedsMessagePostfix": "while using new 100pv CNC voucher(CSY Series).",
+      "cncNotAplicable": "CNC voucher(CSY Series) can not be applied with other vouchers."
+    },
+    "DEVICE_REGISTRATION":{
+      "noDeviceLoggedIn":"No Device found for this user!"
+    },
+    "completeRegistration": {
+      "title": "Complete Registration",
+      "submit": "Submit",
+      "proceed": "Proceed",
+      "enterOtp": "Please enter your verification code",
+      "acceptDeclaration" : "I confirm that all the details have been filled in by Myself."
+    },
+    "cnt": {
+      "city": "city field can't be empty",
+      "state": "state field can't be empty",
+      "district": "district field can't be empty",
+      "venueName": "venue name field can't be empty",
+      "venueAdd": "venue add field can't be empty",
+      "date": "Please select training date",
+      "time": "Please select training time",
+      "laptopNo": "laptop no field can't be empty",
+      "projectorNo": "Projector no field can't be empty",
+      "selectDlcpLocation": "Please select DLCP/Location",
+      "trainingTime": "Please select valid time, it must be between 7:00 AM to 10:00 PM",
+      "imageMaxSizeMessage": "Max size exceeded,image must be less than 4 mb"
+    }
+  },
+  "signupReview":{
+    "modalHeading": "Review Details",
+    "cancel": "Cancel",
+    "submit": "Submit"
+  },
+  "referralScreen": {
+    "referralCodeTitle": "Share Your Referral Code",
+    "copiedToCLipBoardTitle": "Copied To Clipboard!",
+    "message1": "Refer your close ones to join the huge network of Vestige.",
+    "message2": "Allow them to enjoy the benefits of being part of the Vestige family.",
+    "message3": "Wish them wellth."
+  },
+  "failureScreen": {
+    "errorHeading": "OOPS! NO INTERNET ",
+    "errorMessage": "Please check your network connection",    
+    "retry": "TRY AGAIN"
+  },
+  "viewCartScreen": {
+    "totalEarnedPv": "Total Earned PV",
+    "totalAmountToBePaid": "Total Amount to be paid",
+    "inventoryMessageTitle": "Inventory Message",
+    "singleCartInventoryMessage": "Please review your cart and remove the red coloured products to complete checkout.",
+    "cartInventoryMessageWithSuggestion": "Please remove out of stock products from cart to proceed with payment. You can come again later & change catering location to warehouse to avail this product.",
+    "inStockAvailableProducts": "Your ordered products are available in stock. Please continue to confirm your order.",
+    "alertButtonTextOk": "OK",
+    "alertButtonTextConfirm": "Confirm",
+    "alertButtonTextReviewCart": "Review Cart",
+    "inventoryIsNotAvailableRightNow": "Inventory is not available right now, Please refresh your cart.",
+    "cncInfoInitialMessage": "Dear Distributor, Total PV against your order are ",
+    "cncInfoMiddleMessage": "PV.We suggest you to add more products worth",
+    "cncInfoLastMessage": "PV to qualify for consistency.",
+    "noAddressSelectedForCheckout": "You have not selected any valid address. Please select any valid address for checkout.",
+    "addressConfirmationTitle": "Address Confirmation",
+    "confirmAddressMessage": "Are you sure you want to continue with the below address?",
+    "movingToBaseLocationMessage": "You are moving to your base location now."
+  },
+  "addNewAddressScreen": {
+    "screenTitle": "Add New Address",
+    "addressKey": "Address",
+    "addressType": "Address Type",
+    "defaultAddress": "Make this my default address",
+    "confirmAddressButtonTitle": "Confirm Address"
+  },
+  "selectShippingType":{
+    "screenTitle": "Select Shipping Type",
+    "cateringStripTitle": "Catering Branch",
+    "pickupStore": "Pick-up Store",
+    "warehouse":{
+      "homeDelivery": "Home Delivery",
+      "storePickup": "Nearest Vestige Store"
+    },
+    "homeDeliveryMessage": "Order will be delivered to selected Address",
+    "warehouseToStoreMessage": "Order will be delivered to Pick-up Store Address"
+  },
+  "cartCheckout": {
+    "screenTitle": "Order Summary",
+    "cashOrdersPlacedSuccessfullyMessage": "Cash Orders are placed successfully, Continue to pay online amount",
+    "totalCashAmount": "Total Amount (Cash)",
+    "totalOnlineAmount": "Total Amount (Online)",
+    "shippingAmount": "Shipping Amount",
+    "expressShippingAmount": "Express Shipping Amount",
+    "totalAmountToBePaid": "Total Amount to be paid",
+    "orderAmountToBePaid": "Order Amount to be paid",
+    "totalOrderSummary": "ORDER SUMMARY",
+    "orderId": "Order ID : ",
+    "continueShoppingButton": "Continue Shopping",
+    "payOnlineText": "Pay Online",
+    "completeOrderText": "Complete Order",
+    "quantityText": "Quantity: ",
+    "priceText": "Price: ",
+    "deliveryAddress": "Delivery Address",
+    "storeAddress": "Store Address",
+    "cessAmount":"Cess Amount"
+  },
+  "consistencyScreen": {
+    "myConsistency": "My Consistency",
+    "invoiceNumber": "INVOICE NUMBER",
+    "amount": "AMOUNT",
+    "voucherType": "Voucher Type",
+    "voucherStatus": "Voucher Status",
+    "invoiceNo": "Invoice No",
+    "voucherNo": "Voucher No: ",
+    "monthTitle": "Month",
+    "totalInvoiceTitle": "Total Invoice"
+  },
+  "locationScreen": {
+    "screenTitle": "Delivery Address",
+    "timingsKey": "TIMINGS : ",
+    "distanceKey": "Distance: ",
+    "selectDeliveryType": "SELECT YOUR DELIVERY TYPE",
+    "noAddressesAddedTitle": "No Addresses added yet. Please Add new address",
+    "addNewAddress": "Add new Address",
+    "recentAddressesTitle": "RECENT ADDRESSES",
+    "locationOptions": "Delivery/Pick Up Address",
+    "locationScreenButtonTitle": "Save",
+    "noServicesMessage": "We are not providing services in your Country",
+    "selectStorePickup": "PLEASE SELECT YOUR STORE PICK-UP",
+    "detectLocationKey": "Detect Location",
+    "addressDetail": "ADDRESS DETAIL",
+    "addressDeleteMessage": "Address Deleted Successfully",
+    "defaultShippingAddressTitle": "CURRENT SHOPPING ADDRESS ",
+    "askForDeleteAddress": "Are you sure you want to delete the address?"
+  },
+  "selectMiUserAddress": {
+    "screenTitle": "Select Address",
+    "selectedShippingAddressTitle": "SELECTED SHOPPING ADDRESS",
+    "cateringBranch": "Catering Branch (Warehouse)",
+    "pickupStore": "Pick-up Store",
+    "proceedButton": "Proceed"
+  },
+   "myNetworkScreen": {
+     "previousPv":"Previous Cumulative PV",
+     "exclusivePv":"Exclusive PV",
+     "Designation":"Designation",
+     "selfPv":"Self PV",
+     "shotPoint":"Short Point",
+     "nextLevel":"Next Level",
+     "vbdPV": "VBD PV",
+     "groupPv":"Group PV",
+     "totalPv":"Total Cumulative PV",
+     "mainUpline":"Main Upline",
+     "upline":"Upline",
+     "downline":"Downline",
+     "pointValue":"Point Value",
+     "actualPv":"Actual PV",
+     "previousExclusivePv": "Previous Exclusive PV",
+     "previousTotalPv": "Previous Total PV",
+     "previousLevel": "Previous Level",
+     "previousActualPv": "Previous Actual PV",
+     "prevActualExclPV": "Previous Actual Exclusive PV",
+     "actualExclPV": "Actual Exclusive PV",
+     "dafNotSubmitted": "DAF IS NOT SUBMITTED!",
+     "myNetwork" : "My Network",
+     "starred" : "Starred",
+     "consistencyStatus": "Consistency Status",
+     "sendConsistencyReminder": "Send reminder for CNC"
+    },
+    "MyNetworkComponent" :{
+      "detailsButtonTittle" : "View Details"
+    },
+  "myTrainingScreen": {
+    "budgetDetails":"View Budget Details",
+    "venueRent":"Venue Rent",
+    "travel":"Travel",
+    "hotel":"Hotel",
+    "food":"Food",
+    "misc":"Misc.",
+    "honorarium":"Honorarium Charges",
+    "searchBy":"Search by",
+    "editTraining":"Edit Training",
+    "newTraining":"New Training"
+  },
+  "claimForm": {
+    "claimForm": "Claim Form",
+    "claimReimburement": "Claim Reimburement"
+  },
+  "trainingRequestScreen": {
+    "trainingRequest": "Training Request",
+    "trainingList": "Training List",
+    "contactList": "Contact List",
+    "searchContacts": "Search by Contacts",
+    "futureDistributor": "Add Future Prospects",
+    "completedTraining": "Completed Training",
+    "addProspects": "Add Prospects",
+    "viewProspects": "View Prospects",
+    "emptyScreenMessages": "No training data available.",
+    "eventType": "Event Type",
+    "distributorId": "Distributor ID",
+    "distributorName": "Distributor Name",
+    "level": "Level",
+    "noProspectsAttended": "No prospects registered for the training",
+    "totalProspects": "Total Prospects:",
+    "trainingRequestList" : {
+      "venue": "Venue",
+      "address": "Address",
+      "pincode": "Pincode",
+      "city": "City",
+      "district": "District",
+      "eventDate": "Event Date",
+      "locationName": "Location Name",
+      "state": "State",
+      "status": "Status",
+      "eventTime": "Event Time",
+      "trainer": "Trainer",
+      "trainingRequestId": "Request Id",
+      "distributorId": "Distributor ID",
+      "rejectReason": "Reject Reason"
+    }
+  },
+  "notification": {
+    "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+    "time":"'Today  |  2:00PM'",
+    "title":"Notifications"
+  },
+  "order": {
+    "confirmation":"Confirmation",
+    "orderConfirmed":"Your Order is Confirmed",
+    "thanks":"Thanks for shopping!",
+    "notShipped":" Your order \n hasn’t shipped yet, but we’ll send you an email when it does.",
+    "cartDetails":"View Cart Details",
+    "shippingAddress":"Shipping Address",
+    "backToHome":"Back To Homepage",
+    "searchBy":"Search by",
+    "orderView":{
+      "screenTitle": "My Order"
+    },
+    "myOrder": {
+      "heading":"My Orders"
+    },
+    "orderDetails": {
+      "heading":"Order Details",
+      "alertHeading": "Cancel Order",
+      "cancelAlertHeading": "Cancel Order",
+      "cancelAlertMessage": "Do you really want to cancel your order?",
+      "cancelButton": "Cancel Order",
+      "repeatAlertHeading": "Repeat Order",
+      "repeatAlertMessage": "Do you really want to Repeat this order?",
+      "repeatButton": "Repeat Order",
+      "orderNo": "Order No",
+      "itemNo": "No of Items",
+      "orderDate": "Order Date",
+      "orderTotal": "Order Total",
+      "orderStatus": "Order Status",
+      "shopFor": "Shop For",
+      "deliveyMode": "Delivery Mode",
+      "paymentMode": "Payment Mode",
+      "distId": "Distributor ID",
+      "distName": "Distributor Name",
+      "storePick": "Store Pickup",
+      "shipping": "Shipping Address",
+      "productName": "Product Name",
+      "discount": "Discount",
+      "totalAmount": "Total Amount",
+      "downloadInvoice": "Download Invoice",
+      "successTitle": "Success",
+      "orderAddedToCart": "Your order has been added to cart. \nDo you wish to switch on cart?",
+      "orderAlreadyRated": "You have rated this order : ",
+      "orderAlreadyProduct": "You have rated this product : ",
+      "countryLabel": "Country",
+      "shopFor": "Shop For"
+    },
+    "orderFeedback": {
+      "screenTitle": "Write a Review",
+      "screenTitleProductRating":"PRODUCT RATING",
+      "ratingAndReviewSubmitted": "Your rating and review has been submitted successfully.",
+      "giveSomefeedbackMessage": "Please give some comments to submit the review.",
+      "imageMaxSizeMessage": "Max size exceeded,image must be less than 5 mb",
+      "writeReview": "Write your review (Max 200 chars)",
+      "uploadImage": "Upload Image",
+      "uploadVideo": "Upload Video",
+      "uploadImagesAndVideos": "Upload Images & Videos",
+      "maximumUploadDescription": "The maximum file size of an image to upload is 5 MB and for video is 15 MB",
+      "submit": "Submit",
+      "comment": "Comment",
+      "productFeatureRatings": "Rate Product by features",
+      "ratingHeaderDescription": "Your rating and feedback will help improve our service in the future.",
+      "saveAndContinue":"Save & Continue",
+      "postiveReviewHeader":"Nice! What did you like?",
+      "negativeReviewHeader":"Oh No. What went wrong?",
+      "couriedDeviveryTitle":"COURIER DELIVERY RATING",
+      "storePickUpTitle":"STORE PICK-UP RATING",
+      "provideStarRating": "Please provide star rating to submit your review."
+    },
+    "orderInvoice": {
+      "screenTitle": "Invoice",
+      "orderInvoiceIssue": "There is some issue with order invoice.\n Please try later!",
+      "errorTitle": "Error!"
+    },
+    "makePayment":{
+      "pendingPaymentFirst": "Dear Distributor, Your last transaction against this log number ",
+      "pendingPaymentSecond": " is in payment review with bank. Please continue, if still want to do another transaction for the same ",
+      "pendingPaymentThird": ". wish you wellth!"
+    },
+    "updatePaymentDetails": {
+      "screenTitle": "Update Payment Details",
+      "transactionId": "Transaction Id",
+      "date": "Date",
+      "amount": "Amount",
+      "invalidTransactionDetails": "Please enter a valid transaction No.",
+      "invalidAmount": "Please enter valid amount.",
+      "invalidDate": "Please select date.",
+      "disclaimer": "Please make sure that all the details filled above are correct.",
+      "amountMismatch": "The Log amount and the amount entered by you do not match."
+    }
+  },
+  "payment": {
+    "selectMethod": "SELECT YOUR PAYMENT METHOD",
+    "amountToPay":"Total Amount to be paid",
+    "title":"Payment",
+    "paymentFailure": "Payment Failure",
+    "paymentFailed": "Payment Failed"
+  },
+  "payout": {
+    "generateBonus": "Generate Bonus",
+    "cancel":"Cancel"
+  },
+  "recommendation": {
+    "title": "Recommendations",
+    "detailsTitle":"Recommendation Details",
+    "distId": "Distributor ID",
+    "percentage":"Percentage (%)",
+    "or": "OR",
+    "setTarget":"Set your target in",
+    "level": "Level",
+    "go":"Go",
+    "totalPv": "TOTAL PV",
+    "qualifiedLeg": "CURRENT QUALIFIED LEG",
+    "targetLeg": "TARGET LEG",
+    "currentMaintain": "CURRENT SIDE MAINTENANCE",
+    "targetMaintain": "TARGET MAINTENANCE",
+    "currentPv": "Current Cumulative PV",
+    "existingBonus":"Existing Bonus Percent",
+    "shortPoint":"Short Point"
+  },
+  "shoppingHomeScreen": {
+    "title":  {
+      "category": "Shop by category",  
+      "pv": "Shop by PV",  
+      "new": "Newly Launched Products",
+      "sponsor": "Sponsored Products",
+      "inCart": "Items in your Cart",
+      "recentView": "Recently Viewed",
+      "mostViewed": "Mostly Viewed"
+    },
+    "repeatOrderMessage": "Do you really want to Repeat the order?"
+  },
+  "storeFront": {
+    "title":  {
+      "newLaunch": "New Launch",  
+      "mostlyViewed": "Most Viewed",  
+      "topSelling": "Top Selling"
+    }
+  },
+  "headerComponent": {
+    "storePic": "Store Pick-up" , 
+    "homeDelivery":"Home Delivery",
+    "cancel":"Cancel",
+    "skip":"Skip",
+    "cameraPressed":"Camera Pressed.",
+    "microPhone":"Microphone Pressed."
+  },
+  "profile": {
+    "title": "My Profile",
+    "noPincode": "No Pin code found",
+    "noAddress": "No Address found",
+    "noCity": "No City found",
+    "noState": "No State found",
+    "noCountry": "No Country found"
+  },
+  "cartVouchersScreen": {
+    "screenTitle": "Vouchers",
+    "quantityKey": "Quantity",
+    "noPromotionsAvailableTextMessage": "Sorry, Currently no promotions are available.",
+    "pleaseTryAgainMessage": "Please try again!",
+    "noPromotionsFoundForYou": "Sorry, No promotions found for you!",
+    "promotionsKey": "Promotions",
+    "enterGiftVoucherCode": "Enter Gift Voucher Code",
+    "enterBonusVoucherCode": "Enter Bonus Voucher Code",
+    "proceedButtonTitle": "Proceed",
+    "itemCode": "Item Code"
+  },
+  "winnerDetailModalBox": {
+    "topCarWinners": "Top Car Winners",
+    "topHomeWinners": "Top Home Winners",
+    "topTripWinners": "Top Trip Winners",
+    "noDataFoundText": "No Data Found",
+    "birthdayList": "Birthday List"
+  },
+  "levelComponent": {
+    "targetKey": "Target",
+    "ptsKey": "Pts",
+    "groupPv": "Group PV",
+    "myNetwork": "My Network"
+  },
+  "userProfileComponent": {
+    "trainerTitle": "Trainer",
+    "lastMonthLevelTitle": "Last Month Level",
+    "nextLevel": "Next Level",
+    "myPv": "MY PV",
+    "groupPv": "GROUP PV",
+    "myNetworkTitle": "MY NETWORK",
+    "recommendationTitle": "RECOMMENDATION",
+    "referAFriendTitle": "REFER A FRIEND",
+    "repeatOrder": "REPEAT ORDER",
+    "highestLevel": "You Have Achieved The Highest Level."
+  },
+  "emptyScreenMessages": {
+    "cartEmptyMessage": "YOUR CART IS CURRENTLY EMPTY",
+    "orderListEmpty": "YOUR ORDER LIST IS EMPTY",
+    "noVouchersMessage": "YOU HAVE NO VOUCHERS",
+    "noNotificationsMessage": "No Notifications",
+    "noResultFoundMessage": "NO RESULTS FOUND",
+    "noProductsFoundMessage": "No Products Found",
+    "noDataFoundMessage": "No Data Found",
+    "emptyDownlineCartMessage": "There is no cart created for your downline.\nPlease enter downline Id above and validate to start shopping for him."
+  },
+  "createDownlineCartComponent": {
+    "validateButtonText": "Validate",
+    "cartCreatedSuccessfullyTitle": "Cart Created Successfully",
+    "createAnotherCart": "Create another cart",
+    "continueShopping": "Continue Shopping",
+    "idKey": "ID",
+    "alreadyAddedTitle": "Already Added",
+    "createCartButtonTitle": "Create Cart",
+    "createCartForDownline": "Create Cart for Downline",
+    "createAnotherCartMessage": "Create another cart",
+    "shopNowButtonText": "Shop now"
+  },
+  "coachMarksInformation": {
+    "menuTooltipTitle": "Click the icon to open the menu.",
+    "notificationsTooltipTitle": "Click the bell icon to see the notifications.",
+    "dashboardTooltipTitle": "User Dashboard",
+    "dashBoardDescriptionInfo": {
+      "firstPoint": "# View your Network, PV, Funds etc",
+      "secondPoint": "# Onboard new members into your downline",
+      "thirdPoint": "# View Vestige motivational Videos.",
+      "fourthPoint": "# directly shop via Brands, Categories & PV.",
+      "fifthPoint": "# to view the Vestige achievers."
+    },
+    "shoppingTooltipTitle": "Shopping",
+    "shoppingTabInfo": {
+      "firstPoint": "# See latest promotions.",
+      "secondPoint": "# Quick shopping via Category, Brands PV etc.",
+      "thirdPoint": "# Get shopping recommendations.",
+      "fourthPoint": "# Get products frequently bought by other distributors."
+    },
+    "searchAnItemTitle": "Search an item",
+    "searchTabInfo": {
+      "firstPoint": "# Search your desired product via name, brand, category etc.",
+      "secondPoint": "# Directly add your products to cart.",
+      "thirdPoint": "# Sort and filter your search results."
+    },
+    "wishlistTitle": "Wishlist",
+    "wishListDescription": "# You can see all the products added in your wishlist.",
+    "yourCartTitle": "Your Cart",
+    "yourCartTabInfo": {
+      "firstPoint": "# Items added in your multiple order carts created for you and your downline.",
+      "secondPoint": "# You can checkout single as well as multiple carts in one click.",
+      "thirdPoint": "# You can select to do online or cash payments."
+    }
+  },
+  "branchesScreen": {
+    "branchDetails": "Branch Details",
+    "branchLocation": "Branch Location",
+    "districtLevelContact": " District Level \n Contact Points \n Details",
+    "districtLevelCentre": " Distributor \n Consulting \n Center Details",
+    "noCoordinatesFound": "No Coordinates Found for this location."
+  },
+  "birthdayPopup": {
+    "title": "Birthday List",
+    "sendWish": "Send Wish",
+    "wishSent": "Sent",
+    "sendWishToAll": "Send Wish to All",
+    "birthdayWishSent": "Wishing you a very happy birthday, Wish you wellth!!",
+    "messageSentSuccessfully": "Message sent successfully."
+  },
+  "faqScreen": {
+    "inputPlaceholder": "Type here for Quick Search",
+    "errorAlertTitle": "Message",
+    "errorAlertMessage": "Search keyword must be greater than 3 characters."
+  },
+  "submitOtp": {
+    "title": "Submit verification Code",
+    "otpReceivedMessage": "Enter the verification code received",
+    "submitText": "Submit",
+    "resendOtp": "RESEND Verification Code"
+  },
+  "generalQueries": {
+    "screenTitle": "Ask Me!",
+    "typeOfQuery": "Please select the type of query.",
+    "invalidEmailId": "Please enter a valid email id",
+    "invalidMessage": "Please enter a valid message",
+    "messageAlertTitle": "Success!!",
+    "messageAlert": "Your query has been submitted, we will get back to you shortly.",
+    "submit": "Submit",
+    "enterEmailId": "Enter Email Id",
+    "writeHere": "Write here..."
+  },
+  "successStories": {
+    "title": "Success Stories"
+  },
+  "guestUserScreen": {
+    "invalidMobileNumber": "Invalid mobile Number",
+    "nameInput": "Name",
+    "emailInput": "Email (Optional)",
+    "mobileNumber": "Mobile Number",
+    "guestLoginButton": "Login As a guest",
+    "emptyOtp": "Please enter verification code",
+    "invalidOtp": "Please enter valid verification code",
+    "selectCountryError": "Please select any Country"
+  },
+  "distributorFeedBackScreen": {
+    "screenTitle": "Give Feedback",
+    "giveFeedBackToPeer": "Here you can give feedback to your peer ",
+    "feedBackCaptured": "Your feedback has been captured successfully.",
+    "successTitle": "Success",
+    "writeFeedback": "Please write some feedback.",
+    "errorTitle": "Error",
+    "submitTitle": "Submit",
+    "writeHereTitle": "Write here..."
+  },
+  "searchScreen": {
+    "searchPlaceholder": "Search for Products, Categories",
+    "viewAllProductsTitle": "View All Products",
+    "exploreVestige": "Explore Vestige",
+    "tryAgain": "Please try again."
+  },
+  "touchIdSCreen": {
+    "touchIdTitle": "Unlock with Touch ID to open the App",
+    "useTouch": "Click here to use Touch ID",
+    "touchIdPermission": " Do you want to use touch Id ? "
+  },
+  "voiceFeature": {
+    "microphonePermission": "Microphone Permission",
+    "microphonePermissionSettings": "Please open Settings and enable Microphone permission for Vestige."
+  },
+  "loginConfirmDeviceOtp": {
+    "alertTitle": "Message",
+    "deviceSuccessfullyRegistered": "Device Successfully Registered",
+    "mobileNumberPlaceholder": "Mobile Number",
+    "confirmOTP": "Confirm verification code",
+    "saveMobile": "Save Mobile",
+    "invalidMobileNumber": "Invalid Mobile Number",
+    "pleaseEnterOtp": "Please Enter Valid verification code.",
+    "resendVerificationCode": "Resend Code",
+    "didNotRecieveCode": "Didn’t receive the Verification Code? ",
+    "verificationCodeDetails": "Verification Code will be sent to your registered Mobile",
+    "verificationCodeSent": "Verification Code has been sent successfully."
+  },
+  "PROFILE_SCREEN_SEGMENT_TITLE":{
+    "PROFILE" : "PROFILE",
+    "PANBANK": "PAN BANK"
+  },
+  "PV_ANALYSIS":{
+    "data":"Data",
+    "lineGraph":"Line Graph",
+    "barGraph":"Bar Graph"
+  },
+  "v20User":{
+    "v20_title":"V20 ANNIVERSARY PASSPORT"
+  }
+}

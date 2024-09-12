@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="theme_blue" type="color">#FF0B8DF9</item>
+    <color name="layout_header_end_color">#FFFFFF</color>
+    <color name="primary_dark">#000000</color>
+</resources>

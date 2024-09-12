@@ -1,0 +1,78 @@
+// @flow
+
+export const FontFamily = 'Montserrat';
+
+export const Specs = {
+  fontLight: {
+    fontFamily: `${FontFamily}-Light`,
+    // fontWeight: '400',
+  },
+  fontRegular: {
+    fontFamily: `${FontFamily}-Regular`,
+    // fontWeight: '400',
+  },
+  fontMedium: {
+    fontFamily: `${FontFamily}-Medium`,
+    // fontWeight: '500',
+  },
+  fontSemibold: {
+    fontFamily: `${FontFamily}-SemiBold`,
+    // fontWeight: '600',
+  },
+  fontBold: {
+    fontFamily: `${FontFamily}-Bold`,
+    // fontWeight: '700',
+  },
+};
+
+export const COLOR_CODES = {
+  white: '#FFFFFF',
+  ghostWhite: '#fafbfc',
+  cultured: '#f5f7f9',
+  athensGrey: '#F6F7F9',
+  aliceBlue: '#F0F8FF',
+  border: '#E8E9EB',
+  borderGrey: '#bfc2c7',
+  borderDark: '#979797',
+  spoiledMilk: '#cac5c8',
+  lavendar: '#EBEBEE',
+  lightShadeBlue: '#d5dae6',
+  mercury: '#e4e4e4',
+  extraLightGrey: '#DDDDDE',
+  labelGrey: '#4a4b4d',
+  lightGrey: '#999999',
+  shadowGrey: '#888888',
+  lightGrey_back: 'rgba(74, 75, 77,0.1)',
+  darkGrey: '#515151',
+  black: '#000000',
+  LoaderBgColor: '#00000040',
+  green: '#57a42a',
+  labelGreen: '#0e9018',
+  greenish: '#a9b506',
+  orange: '#ed7d31',
+  flamingo: '#eb5757',
+  maroon: '#b80124',
+  vividRed: '#e4042c',
+  red: '#A9222B',
+  red2: '#e4042c',
+  warning: '#e9730c',
+  brightCyan: '#00a89d',
+  brownRed: '#dda439',
+  lightViolet: '#7b75c4',
+  lightBlue: '#5b9bd5',
+  activeBlue: '#238cc0',
+  defaultBlue: '#578BD3',
+  darkBlueText: '#373e73',
+  buttonBlue: '#4a90e2',
+  bluish: '#3e12b3',
+  pinkBonnet: '#f6c8d0',
+  lightestGreen: '#ebf4e7',
+  gainsboro: '#cfe4ef',
+  lightGreen: '#d9e8d0',
+  foggyLove: '#d4cbec',
+  harmonies: '#f7f9db',
+  approxDeco: '#eaecc9',
+  whiteSmoke: '#efefef',
+  orangis: '#FCECF1',
+  orangeBg: '#ffe4cc',
+};

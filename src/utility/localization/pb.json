@@ -1,0 +1,721 @@
+{
+    "onboardingScreen": {
+      "buttonSignIn": "ਸਾਈਨ-ਇਨ",
+      "buttonSignUp": "ਸਾਈਨ-ਅੱਪ",
+      "onboarding": [{
+          "title": "ਗਲੋਬਲ ਪ੍ਰੈਜੇਂਸ",
+          "subTitle": "ਹੁਣ ਡਬਲ ਅਡਵਾਂਟੇਜ ਦਾ ਆਨੰਦ ਮਾਣੋ. ਇੱਕੋਂ ਸਥਾਨ ਤੇ ਆਪਣੇ ਪਸੰਦੀਦਾ ਵੈਸਟਿਜ ਪ੍ਰੋਡਕਟਸ ਖਰੀਦੋ ਅਤੇ ਵੈਸਟਿਜ ਦੀ ਨਿਊਜ਼ ਅਤੇ ਆਫਰਸ ਦੇ ਬਾਰੇ ਅੱਪਡੇਟਸ ਪ੍ਰਾਪਤ ਕਰੋ"
+        },
+        {
+          "title": "ਵਿਸ਼ ਯੂ ਵੈਲਥ",
+          "subTitle": "ਤੁਹਾਡਾ ਵੈਸਟਿਜ ਬਿਜਨੈਸ ਤੁਹਾਨੂੰ ਟ੍ਰੈਵਲ ਫੰਡ, ਕਾਰ ਫੰਡ, ਹਾਊਸ ਫੰਡ ਅਤੇ ਇਹੋ ਜਿਹੇ ਕਈ ਹੋਰ ਲਾਭ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ. ਵੈਸਟਿਜ ਬਿਜਨੈਸ ਤੋਂ ਕਮਾਓ ਅਤੇ ਸੁਵਿਧਾਵਾਂ ਦਾ ਲਾਭ ਚੁੱਕੋ."
+        },
+        {
+          "title": "ਗਲੋਬਲ ਸੋਚ",
+          "subTitle": "ਕਨੈਕਟਿਵਿਟੀ ਸਾਡੇ ਲਈ ਮਹੱਤਵਪੂਰਨ ਹੈ. ਵੈਸਟਿਜ ਤੁਹਾਨੂੰ, ਤੁਹਾਡੇ ਬਿਜਨੈਸ, ਨੈੱਟਵਰਕ ਅਤੇ ਸਕਸੈਸ ਗ੍ਰਾਫ ਨਾਲ ਡਿਜ਼ੀਟਲ ਤੌਰ ਤੇ 24x7 ਜੋੜੀ ਰੱਖਦੀ ਹੈ."
+        }]
+    },
+    "drawerScreen": {
+        "categories": "ਕੈਟਗਰੀਜ਼",
+        "brands": "ਬ੍ਰਾਂਡਸ",
+        "vbd": "ਵੀਬੀਡੀ ਸਟੋਰਸ",
+        "news": "ਨਿਊਜ਼",
+        "gallery": "ਗੈਲਰੀ",
+        "branches": "ਬ੍ਰਾਂਚਿਸ",
+        "aboutUs": "ਸਾਡੀ ਜਾਣਕਾਰੀ",
+        "help": "ਹੈਲਪ",
+        "level": "ਮਾਈ ਲੈਵਲ",
+        "groupPv": "ਮਾਈ ਗਰੁੱਪ ਪੀਵੀ",
+        "kyc": "ਮਾਈ ਕੇਵਾਈਸੀ",
+        "network": "ਮਾਈ ਨੈੱਟਵਰਕ",
+        "consistency": "ਮਾਈ ਕੰਸਿਸਟੈਂਸੀ",
+        "funds": "ਮਾਈ ਫੰਡਸ",
+        "voucher": "ਮਾਈ ਵਾਊਚਰ",
+        "bonus": "ਮਾਈ ਬੋਨਸ",
+        "training": "ਮਾਈ ਟ੍ਰੇਨਿੰਗ",
+        "recommendation": "ਰਿਕਮੰਡੇਸ਼ਨ",
+        "refer": "ਦੋਸਤ ਨੂੰ ਰੈਫਰ ਕਰੋ",
+        "order": "ਮਾਈ ਆਰਡਰ",
+        "password": "ਪਾਸਵਰਡ ਬਦਲੋ",
+        "signOut": "ਸਾਈਨ-ਆਊਟ",
+        "profile": "ਮਾਈ ਪ੍ਰੋਫਾਈਲ"
+    },
+    "graphPv": {
+      "screenTitle": "ਪੀਵੀ ਡਿਟੇਲਸ",
+      "pvTypes": {
+        "myPv": "ਮਾਈ ਪੀਵੀ",
+        "groupPv": "ਗਰੁੱਪ ਪੀਵੀ",
+        "totalPv": "ਟੋਟਲ ਪੀਵੀ",
+        "exclusivePV": "ਐਕਸਕਲੂਸਿਵ",
+        "selfPv": "ਸੈਲਫ ਪੀਵੀ",
+        "currentCumulativePv": "ਮੌਜੂਦਾ ਕਯੁਮੁਲੇਟਿਵ ਪੀਵੀ",
+        "nextLevel": "ਅਗਲਾ ਲੈਵਲ",
+        "shortPoints": "ਸ਼ੋਰਟ ਪੁਆਇੰਟਸ",
+        "lastMonthPointDetails": "ਪਿੱਛਲੇ ਮਹੀਨੇ ਦੇ ਪੁਆਇੰਟ ਦਾ ਵੇਰਵਾ",
+        "previousExclusivePv": "ਪ੍ਰੀਵਿਅਸ ਐਕਸਕਲੂਸਿਵ ਪੀਵੀ",
+        "previousSelfPv": "ਪ੍ਰੀਵਿਅਸ ਸੈਲਫ ਪੀਵੀ",
+        "previousTotalPv": "ਪ੍ਰੀਵਿਅਸ ਟੋਟਲ ਪੀਵੀ",
+        "lastMonthLevel": "ਪਿੱਛਲੇ ਮਹੀਨੇ ਦਾ ਲੈਵਲ",
+        "currentMonthPointDetails": "ਮੌਜੂਦਾ ਮਹੀਨੇ ਦੇ ਪੁਆਇੰਟ ਦਾ ਵੇਰਵਾ",
+        "previousCumulativePv": "ਪ੍ਰੀਵਿਅਸ ਕਯੁਮੁਲੇਟਿਵ ਪੀਵੀ"
+      }
+    },
+    "myFund": {
+      "screenTitle": "ਮਾਈ ਫੰਡਸ",
+      "fundTypes": {
+        "carFund": {
+          "title": "Car Funds",
+          "displayName": "ਕਾਰ ਫੰਡ"
+        },
+        "travelFund": {
+          "title": "Travel Funds",
+          "displayName": "ਟ੍ਰੈਵਲ ਫੰਡ"
+        },
+        "houseFund": {
+          "title": "House Funds",
+          "displayName": "ਹਾਊਸ ਫੰਡ"
+        }
+      },
+      "fundDetailKeys": {
+        "Opening": "ਓਪਨਿੰਗ",
+        "Balance": "ਬੈਲੇਂਸ",
+        "Paid": "ਕੀਤੀ ਗਈ ਪੇਮੇਂਟ",
+        "New": "ਨਿਊ",
+        "Remark": "ਰੀਮਾਰਕ"
+      },
+      "detailsHeading": "ਜਾਣਕਾਰੀ",
+      "currency": "ਰੁ."
+    },
+    "addToCart": {
+      "buyingPreference": "ਕਿਸ ਦੇ ਲਈ ਖਰੀਦਣਾ ਚਾਹੁੰਦੇ ਹੋ",
+      "buyingOption1": "ਆਪਣੇ ਲਈ",
+      "buyingOption2": "ਡਾਊਨਲਾਈਨ ਲਈ",
+      "addToCartButtonTitle": "ਡਾਊਨਲਾਈਨ ਲਈ ਕਾਰਟ ਬਣਾਓ",
+      "ContinueShopping": "ਸ਼ੋਪਿੰਗ ਜਾਰੀ ਰੱਖੋ",
+      "removeCart": "ਕਾਰਟ ਤੋਂ ਹਟਾਓ",
+      "removeCart2": "ਪ੍ਰੋਡਕਟਸ ਵੀ ਕਾਰਟ ਵਿਚੋਂ ਹਟਾ ਦਿੱਤੇ ਜਾਣਗੇ",
+      "removeCartHeading": "ਕਾਰਟ ਤੋਂ ਹਟਾਓ",
+      "downlineSearchError": "ਮੁਆਫ ਕਰਨਾ! ਤੁਸੀਂ ਆਪਣੇ ਖੁਦ ਦੀ ਆਈਡੀ ਸਰਚ ਨਹੀਂ ਕਰ ਸਕਦੇ",
+      "addMoreText": "ਹੋਰ ਜੋੜੋ"
+    },
+    "cartListProduct": {
+      "removeItem": "ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਇਸ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
+      "alertMessageHeading": "ਅਲਰਟ!",
+      "onlineDisabled": "ਆਨਲਾਈਨ ਪੇਮੇਂਟ ਕਰਨ ਦਾ ਵਿਕਲਪ ਅਜੇ ਬੰਦ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਕੈਸ਼ ਦੇ ਵਿਕਲਪ ਨਾਲ ਜਾਰੀ ਰੱਖੋ",
+      "cashOnShipping": "ਤੁਸੀਂ ਕੈਸ਼ ਨੂੰ ਪੇਮੇਂਟ ਮੋਡ ਦੇ ਤੌਰ ਤੇ ਨਹੀਂ ਚੁਣ ਸਕਦੇ, ਕਿਉਂਕਿ ਤੁਹਾਡਾ ਐਕਟਿਵ ਡਿਲਿਵਰੀ ਟਾਈਪ ਸ਼ਿਪਿੰਗ ਹੈ.",
+      "onlineOnShipping": "ਔਨਲਾਈਨ ਆਰਡਰ ਇਸ ਸਟੋਰ ਤੇ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੁੰਦਾ.",
+      "productBeforeCheckout": "ਕਿਰਪਾ ਕਰਕੇ ਚੈੱਕਆਊਟ ਤੋਂ ਪਹਿਲਾਂ ਐਡਰੈੱਸ ਜੋੜੋ.",
+      "emptyCart": "ਤੁਹਾਡਾ ਕਾਰਟ ਖਾਲੀ ਹੈ.",
+      "cartCreated": "ਕਾਰਟ ਸਫਲਤਾਪੂਰਵਕ ਬਣਾਇਆ ਗਿਆ!!!",
+      "productRemoved": "ਤੁਹਾਡਾ ਪ੍ਰੋਡਕਟ ਹਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ!",
+      "useralreadyAdded": "ਯੂਜ਼ਰ ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਜੁੜਿਆ ਹੋਇਆ ਹੈ",
+      "removeCart": "ਕਾਰਟ ਤੋਂ ਹਟਾਓ",
+      "promotionalProducts": "ਪ੍ਰਮੋਸ਼ਨਲ ਪ੍ਰੋਡਕਟਸ",
+      "giftProducts": "ਗਿਫਟ ਪ੍ਰੋਡਕਟਸ",
+      "totalPV": "ਟੋਟਲ ਪੀਵੀ",
+      "cartDistributorID": "ਆਈਡੀ",
+      "emptyCartTitle": "ਕਾਰਟ ਖਾਲੀ ਕਰੋ",
+      "vouchersAppliedTitle": "ਲਾਗੂ ਕੀਤਾ ਗਿਆ",
+      "vouchersNotAppliedTitle": "ਵਾਊਚਰਸ / ਪ੍ਰਮੋਸ਼ਨਸ ਜੋੜੋ",
+      "itemsKey": "ਆਈਟਮ",
+      "total": "Total",
+      "bonusDiscount": "Bonus Discount",
+      "giftVoucher": "Gift Voucher",
+      "promoCost": "Promotion Cost",
+      "orderTotal": "ਆਰਡਰ ਦਾ ਟੋਟਲ",
+      "paymentMethod": "ਪੇਮੇਂਟ ਦਾ ਤਰੀਕਾ",
+      "cashButton": "ਕੈਸ਼",
+      "onlineButton": "ਆਨਲਾਈਨ",
+      "deleteCartText": "ਕਾਰਟ ਡਿਲੀਟ ਕਰੋ",
+      "checkoutButtonText": "ਚੈੱਕਆਊਟ",
+      "createCartForDownline": "ਤੁਸੀਂ ਸਿਰਫ਼ 2 ਡਾਊਨਲਾਈਨ ਲਈ ਕਾਰਟ ਬਣਾ ਸਕਦੇ ਹੋ"
+    },
+    "commonMessages": {
+      "logout": "ਲਾਗ-ਆਊਟ",
+      "logoutHeading": "ਲਾਗ-ਆਊਟ",
+      "ok": "ਓਕੇ",
+      "cancel": "ਕੈਂਸਲ",
+      "yes": "ਹਾਂ",
+      "no": "ਨਹੀਂ",
+      "done": "ਹੋ ਗਿਆ",
+      "cartDistributorLimit": "ਕਾਰਟ ਸਿਰਫ ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਯੂਜ਼ਰ ਲਈ ਹੈ",
+      "skip": "ਛੱਡੋ",
+      "continue": "ਜਾਰੀ ਰੱਖੋ",
+      "openSetting": "ਸੈਟਿੰਗਸ ਖੋਲੋ",
+      "alert": "ਅਲਰਟ!",
+      "searchLimit": "ਇਨਪੁੱਟ ਵੈਲਯੂ 3 ਕਰੈਕਟਰਸ ਤੋਂ ਵੱਧ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ.",
+      "noInternet": "ਕੋਈ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ. ਕਿਰਪਾ ਕਰਕੇ ਕੁਝ ਦੇਰ ਬਾਅਦ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ.",
+      "somethingWentWrong": "ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ ਹੈ. ",
+      "tryAgain":"ਕਿਰਪਾ ਕਰਕੇ ਕੁਝ ਦੇਰ ਬਾਅਦ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+      "noProductRelated": "ਇਸ ਆਰਡਰ ਨਾਲ ਸੰਬੰਧਿਤ ਕੋਈ ਪ੍ਰੋਡਕਟਸ ਨਹੀਂ ਮਿਲੇ.",
+      "validMonth": "ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਮਹੀਨਾ ਚੁਣੋ!!!",
+      "tokenExpired": "ਤੁਹਾਡਾ ਸੈਸ਼ਨ ਸਮਾਪਤ ਹੋ ਗਿਆ ਹੈ. ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਲਾਗ-ਇਨ ਕਰੋ",    
+      "noDataFoundText": "No Data Available for this user",
+      "gotoShopping": "ਤੁਹਾਡੇ ਨਕਦ ਆਦੇਸ਼ਾਂ ਨੂੰ ਸਫਲਤਾਪੂਰਵਕ ਰੱਖਿਆ ਗਿਆ ਹੈ, ਸ਼ਾਪਿੰਗ ਤੇ ਜਾਣ ਲਈ ਜਾਰੀ ਰੱਖੋ"
+    },
+    "training": {
+      "selectCountry": "Please select country",
+      "selectCity": "ਕਿਰਪਾ ਕਰਕੇ ਸ਼ਹਿਰ ਚੁਣੋ."
+    },
+    "kyc": {
+      "title": "ਮਾਈ ਕੇਵਾਈਸੀ",
+      "heading": "ਆਪਣਾ ਕੇਵਾਈਸੀ ਕਰਵਾਓ",
+      "docChoice": "ਕਿਰਪਾ ਕਰਕੇ ਕਿਸੇ ਇੱਕ ਨੂੰ ਚੁਣੋ:",
+      "textInputPlaceholder": "ਬੈਂਕ ਦਾ ਨਾਮ",
+      "uploadButtonTitle": "ਅੱਪਲੋਡ",
+      "docType": {
+        "aadhar": {
+          "title": "ਆਧਾਰ ਕਾਰਡ",
+          "placeHolder": "ਆਧਾਰ ਕਾਰਡ ਨੰਬਰ",
+          "label": "ਆਧਾਰ"
+        },
+        "driverLicence": {
+          "title": "ਡ੍ਰਾਈਵਰ ਲਾਈਸੈਂਸ",
+          "placeHolder": "ਡ੍ਰਾਈਵਰ ਲਾਈਸੈਂਸ ਨੰਬਰ",
+          "label": "ਡ੍ਰਾਈਵਰ ਲਾਈਸੈਂਸ"
+        },
+        "passport": {
+          "title": "ਪਾਸਪੋਰਟ",
+          "placeHolder": "ਪਾਸਪੋਰਟ ਨੰਬਰ",
+          "label": "ਪਾਸਪੋਰਟ"
+        }
+      },
+      "imageLimit": "ਅਧਿਕਤਮ ਦੋ ਫੋਟੋਆਂ ਦੀ ਆਗਿਆ ਹੈ",
+      "imageType": "ਸਿਰਫ ਜੇਪੀਜੀ ਜਾਂ ਜੇਪੀਈਜੀ ਹੀ ਅਟੈਚ ਹੋਵੇਗੀ ",
+      "imageSize": "ਫੋਟੋ ਦਾ ਸਾਈਜ਼ 2 ਐਮਬੀ ਤੋਂ ਵੱਧ ਹੈ",
+      "documentMissing": "ਕੋਈ ਡਾਕਯੂਮੈਂਟ ਅੱਪਲੋਡ ਨਹੀਂ ਕੀਤਾ ਗਿਆ",
+      "docNoMissing": "ਕਿਰਪਾ ਕਰਕੇ ਡਾਕਯੂਮੈਂਟ ਨੰਬਰ ਪ੍ਰਦਾਨ ਕਰੋ",
+      "verificationMessage": "ਵੈਰੀਫਿਕੇਸ਼ਨ ਪੈਂਡਿੰਗ ਹੈ",
+      "documentPlaceholder": "ਅਗਲੀ ਅਤੇ ਪਿੱਛਲੀ ਸਾਈਡ ਦੀ ਫੋਟੋ ਨੂੰ ਅੱਪਲੋਡ ਕਰੋ",
+      "aadharNoInvalid": "ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਆਧਾਰ ਨੰਬਰ ਪ੍ਰਦਾਨ ਕਰੋ.",
+      "passportNoInvalid": "ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਪਾਸਪੋਰਟ ਨੰਬਰ ਪ੍ਰਦਾਨ ਕਰੋ.",
+      "driverNoInvalid": "ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਡ੍ਰਾਇਵਿੰਗ ਲਾਇਸੈਂਸ ਪ੍ਰਦਾਨ ਕਰੋ.",
+      "uploaded": "ਕੇਵਾਈਸੀ ਅੱਪਲੋਡ ਕੀਤਾ ਗਿਆ",
+      "alreadyUploaded": "ਕੇਵਾਈਸੀ ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਅੱਪਲੋਡ ਹੈ"
+    },
+    "product": {
+      "pv": "ਪੀਵੀ",
+      "amountType": "ਡੀਪੀ",
+      "dealerPrice": "ਡੀਪੀ",
+      "addToCartText": "ਕਾਰਟ ਵਿੱਚ ਜੋੜੋ",
+      "maxLimit": "ਤੁਸੀਂ ਅਧਿਕਤਮ ਸੀਮਾ ਪਾਰ ਕਰ ਚੁੱਕੇ ਹੋ",
+      "selectProduct": "ਕਿਰਪਾ ਕਰਕੇ ਕਾਰਟ ਵਿਚ ਉਤਪਾਦਾਂ ਨੂੰ ਜੋੜਨ ਲਈ ਸਵੈ ਜਾਂ ਕੋਈ ਡਾਊਨਲਾਈਨ ਚੁਣੋ.",
+      "addedToCart": "ਪ੍ਰੋਡਕਟ ਨੂੰ ਕਾਰਟ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ",
+      "queryUpdated": "ਕੁਐਰੀ ਸਫਲਤਾਪੂਰਵਕ ਅੱਪਡੇਟ ਕੀਤੀ ਗਈ",
+      "removeWishList": "ਪ੍ਰੋਡਕਟ ਨੂੰ ਵਿਸ਼ਲਿਸਟ ਵਿਚੋਂ ਹਟਾਇਆ ਗਿਆ",
+      "addWishList": "ਪ੍ਰੋਡਕਟ ਨੂੰ ਵਿਸ਼ਲਿਸਟ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ",
+      "filterTitle": "ਇਸ ਅਨੁਸਾਰ ਫਿਲਟਰ ਕਰੋ:",
+      "clearFilter": "ਪੂਰਾ ਸਾਫ ਕਰੋ",
+      "applyFilter": "ਲਾਗੂ ਕਰੋ",
+      "productsAvailable1": "ਸਿਰਫ",
+      "productsAvailable2": "ਉਪਲਬਧ ਪ੍ਰੋਡਕਟਸ",
+      "view": "ਦੇਖੋ",
+      "sort": "ਸੋਰਟ",
+      "filter": "ਫਿਲਟਰ",
+      "sortBy": "ਇਸ ਅਨੁਸਾਰ ਸੋਰਟ ਕਰੋ:",
+      "recent": "ਹਾਲੀਆ ਸਰਚਿਸ",
+      "selectedRange": "ਚੁਣੀ ਗਈ ਰੇਂਜ",
+      "category": ["Brand","Category","Price","PV"],
+      "itemCode": "ਆਈਟਮ ਕੋਡ",
+      "outOfStock": "ਸਟੋਕ ਵਿੱਚ ਨਹੀਂ ਹੈ"    
+    },
+    "productDetails": {
+      "title": "ਪ੍ਰੋਡਕਟ ਦੀ ਜਾਣਕਾਰੀ",
+      "pv": "ਪੀਵੀ",
+      "amountType": "ਡੀਪੀ",
+      "addToCartText": "ਕਾਰਟ ਵਿੱਚ ਜੋੜੋ",
+      "notify": "ਮੈਨੂੰ ਸੂਚਿਤ ਕਰੋ",
+      "notified": "ਸੂਚਿਤ ਕੀਤਾ ਗਿਆ",
+      "termsAndConditions": "ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ",
+      "quantityHeading": "ਮਾਤਰਾ",
+      "dealerPrice": "ਡੀਪੀ",
+      "relatedProducts": "ਸੰਬੰਧਿਤ ਪ੍ਰੋਡਕਟਸ",
+      "similiarProducts": "ਇੱਕੋ-ਜਿਹੇ ਪ੍ਰੋਡਕਟਸ",
+      "productsDetail": {
+        "heading": "ਪ੍ਰੋਡਕਟ ਦੀ ਜਾਣਕਾਰੀ",
+        "description": "ਪ੍ਰਮੁੱਖ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ",
+        "unit": "ਯੂਨੀਟ",
+        "type": "ਪੈਕੇਜਿੰਗ ਟਾਈਪ",
+        "disclaimer": "ਡਿਸਕਲੈਮੇਰ"  
+      },
+      "widgetsHeading": {
+        "offerText": "ਆਫਰਸ",
+        "rating": "ਰੇਟਿੰਗ ਅਤੇ ਰਿਵਿਊਜ਼",
+        "recentSearches": "ਹਾਲ ਹੀ ਵਿੱਚ ਸਰਚ ਕੀਤੇ ਗਏ"
+      },
+      "questions": {
+        "title": "ਸਵਾਲ",
+        "queryText": "ਕੋਈ ਸਵਾਲ ਪੁੱਛਣਾ ਹੈ ?",
+        "submit": "ਸਬਮਿਟ"
+      },
+      "addToCart": "ਕਾਰਟ ਵਿੱਚ ਜੋੜੋ",
+      "buyNow": "ਹੁਣੇ ਖਰੀਦੋ"
+    },
+    "forgotPasswordScreen": {
+      "title": "ਪਾਸਵਰਡ ਭੁੱਲ ਗਿਆ ਹੈ",
+      "message": "ਆਪਣਾ ਪਾਸਵਰਡ ਪਤਾ ਕਰਨ ਲਈ, ਮਿਸ ਕਾਲ ਦਵੋ. ਅਸੀਂ ਤੁਹਾਨੂੰ ਜਲਦ ਹੀ ਵਾਪਸ ਕਾਲ ਕਰਾਂਗੇ!",
+      "missedCallLabelTitle": "ਮਿਸ ਕਾਲ ਕਰਨ ਲਈ ਟੈਪ ਕਰੋ"
+    },
+    "loginScreen": {
+      "ButtonSignIn": "ਸਾਈਨ-ਇਨ ਕਰੋ",
+      "distributorIdMobile": "ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਆਈਡੀ ਜਾਂ ਮੋਬਾਈਲ ਨੰਬਰ",
+      "distributorId": "ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਆਈਡੀ",
+      "distributorPassword": "ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ",
+      "distributorOTP": "ਓਟੀਪੀ ਦਰਜ ਕਰੋ",
+      "forgotPassword": "ਪਾਸਵਰਡ ਭੁੱਲ ਗਿਆ ਹੈ",
+      "buttonProceed": "ਅੱਗੇ ਵਧੋ",
+      "buttonLogin": "ਲਾਗ-ਇਨ",
+      "buttonSignUp": "ਸਾਈਨ-ਅੱਪ",
+      "footerTitle": "ਕੀ ਤੁਹਾਡਾ ਅਕਾਊਂਟ ਨਹੀਂ ਹੈ?",
+      "signUpLabel": "ਸਾਈਨ-ਅੱਪ",
+      "validMobileAlert": "ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਮੋਬਾਈਲ ਨੰਬਰ ਪ੍ਰਦਾਨ ਕਰੋ.",
+      "sendOtp": "ਓਟੀਪੀ ਭੇਜੋ",
+      "resendOtp": "ਓਟੀਪੀ ਦੁਬਾਰਾ ਭੇਜੋ",
+      "sendOtpMessage": "ਓਟੀਪੀ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਤੇ ਭੇਜ ਦਿੱਤਾ ਗਿਆ ਹੈ",
+      "resendOtpMessage": "ਅਜੇ ਤੱਕ ਓਟੀਪੀ ਨਹੀਂ ਮਿਲਿਆ? ਓਟੀਪੀ ਦੁਬਾਰਾ ਭੇਜੋ",
+      "distributorIdErrorMessage": "ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਆਈਡੀ ਪ੍ਰਦਾਨ ਕਰੋ",
+      "passwordErrorMessage": "ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਪਾਸਵਰਡ ਪ੍ਰਦਾਨ ਕਰੋ",
+      "otpErrorMessage": "ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਓਟੀਪੀ ਪ੍ਰਦਾਨ ਕਰੋ"
+    },
+    "signUpScreen": {
+      "validUpline": "ਵੈਲਿਡ ਅਪਲਾਈਨ*",
+      "buttonProceed": "ਅੱਗੇ ਵਧੋ",
+      "personalDetails": {
+        "title": "ਵਿਅਕਤੀਗਤ ਜਾਣਕਾਰੀ *",
+        "firstName": "ਪਹਿਲਾਂ ਨਾਮ",
+        "lastName": "ਅੰਤਿਮ ਨਾਮ"
+      },
+      "contactDetails": {
+        "title": "ਸੰਪਰਕ ਜਾਣਕਾਰੀ *",
+        "mobile": "ਮੋਬਾਈਲ",
+        "emailId": "ਈਮੇਲ ਆਈਡੀ",
+        "pincode": "ਪਿੰਨ ਕੋਡ",
+        "address": "ਐਡਰੈੱਸ (ਹਾਊਸ ਨੰ, ਸਟ੍ਰੀਟ ਦਾ ਨਾਮ, ਲੋਕੈਲਿਟੀ)"
+      },
+      "kycDetails": {
+        "title": "ਕੇਵਾਈਸੀ ਜਾਣਕਾਰੀ *",
+        "aadharCard": "ਆਧਾਰ ਕਾਰਡ",
+        "panCard": "ਪੈਨ ਕਾਰਡ"
+      },
+      "bankDetails": {
+        "title": "ਬੈਂਕ ਦੀ ਜਾਣਕਾਰੀ *",
+        "bankName": "ਬੈਂਕ ਦਾ ਨਾਮ",
+        "bankAccountNumber": "ਬੈਂਕ ਅਕਾਊਂਟ ਨੰਬਰ",
+        "ifscCode": "ਆਈਐਫਐਸਸੀ ਕੋਡ"
+      },
+      "passwordDetails": {
+        "title": "ਪਾਸਵਰਡ ਬਣਾਓ *",
+        "password": "ਪਾਸਵਰਡ",
+        "confirmPassword": "ਕੰਫਰਮ ਪਾਸਵਰਡ"
+      },
+      "coDistributorDetails": {
+        "title": "ਕੋ-ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਦੀ ਜਾਣਕਾਰੀ *",
+        "firstName": "ਪਹਿਲਾਂ ਨਾਮ",
+        "lastName": "ਅੰਤਿਮ ਨਾਮ"
+      },
+      "uplineInput": {
+        "referral": "ਰੈਫਰਲ ਕੋਡ",
+        "or": "ਜਾਂ",
+        "validUpline": "ਵੈਲਿਡ ਅਪਲਾਈਨ"
+      }
+    },
+    "dashboard": {
+      "DistributorID": "ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਆਈਡੀ",
+      "titleCategory": "ਕੈਟਗਰੀ ਦੇ ਅਨੁਸਾਰ ਖਰੀਦੋ",
+      "brandsStore": "ਬ੍ਰਾਂਡਸ ਸਟੋਰ",
+      "categoriesTitle": "ਕੈਟਗਰੀਜ਼",
+      "whatTheySaidTitle": "ਲੋਕਾਂ ਦੀ ਰਾਏ",
+      "titlePv": "ਪੀਵੀ ਦੇ ਅਨੁਸਾਰ ਖਰੀਦੋ",
+      "viewMore": "ਹੋਰ ਜ਼ਿਆਦਾ ਦੇਖੋ",
+      "brands": {
+        "title": "ਟਾਪ ਬ੍ਰਾਂਡਸ",
+        "buttonTitle": "ਸਾਰੇ ਬ੍ਰਾਂਡਸ ਦੇਖੋ"
+      },
+      "demoVideo": {
+        "quoteText": "ਸ਼ਾਨਦਾਰ ਕੰਮ ਕਰਨ ਦਾ ਇੱਕੋ ਤਰੀਕਾ ਹੈ, ਜੋ ਕੰਮ ਕਰ ਰਹੇ ਹੋ, ਉਸ ਨਾਲ ਪਿਆਰ ਕਰੋ",
+        "videoContainerText": "ਵੈਸਟਿਜ ਡੈਮੋ"
+      }
+    },
+    "changePassword": {
+      "currentPasswordTitle": "ਮੌਜੂਦਾ ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ",
+      "newPasswordTitle": "ਨਵਾਂ ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ",
+      "buttonTitle": "ਪਾਸਵਰਡ ਬਦਲੋ",
+      "errCurrentPassword": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਮੌਜੂਦਾ ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ",
+      "errNewPassword": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਨਵਾਂ ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ",
+      "errConfirmPassword": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਕੰਫਰਮ ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ",
+      "errMatchPassword": "ਨਵਾਂ ਪਾਸਵਰਡ, ਕੰਫਰਮ ਪਾਸਵਰਡ ਨਾਲ ਮੈਚ ਨਹੀਂ ਹੋ ਰਿਹਾ",
+      "screenTitle": "ਪਾਸਵਰਡ ਬਦਲੋ"
+    },
+    "voucherList": {
+      "voucherNo": "ਵਾਊਚਰ ਨੰ:",
+      "valid": "ਵੈਲਿਡ",
+      "voucherStatus": "ਵਾਊਚਰ ਸਟੇਟਸ",
+      "invoiceNo": "ਬਿਲ ਨੰਬਰ",
+      "invoiceDate": "ਬਿਲ ਦੀ ਤਾਰੀਖ",
+      "voucherApplied": "ਵਾਊਚਰ ਲਾਗੂ ਕੀਤਾ ਗਿਆ",
+      "voucherAmount": "ਵਾਊਚਰ ਅਮਾਊਂਟ",
+      "vouchers": "ਵਾਊਚਰਸ",
+      "apply": "ਲਾਗੂ ਕਰੋ",
+      "or": "ਜਾਂ",
+      "giftVoucherPlaceHolder": "ਬੋਨਸ ਗਿਫਟ ਕੋਡ ਦਰਜ ਕਰੋ"
+    },
+    "vbdStores": {
+      "title": "ਵੀਬੀਡੀ ਸਟੋਰਸ",
+      "contactNo": "ਕੰਟੈਕਟ ਨੰ.",
+      "address": "ਐਡਰੈੱਸ",
+      "email": "ਈਮੇਲ"
+    },
+    "errorMessage": {
+      "internetConnection": {
+        "noInternetConnection": "ਕੋਈ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ",
+        "noInternetConnectionShort": "ਕੋਈ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ"
+      },
+      "signUp": {
+        "successfullRegistration1": "ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਸਫਲਤਾਪੂਰਵਕ ਹੋ ਗਿਆ.",
+        "successfullRegistration2": "ਤੁਸੀਂ ਵੈਸਟਿਜ ਦੇ ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਬਣ ਗਏ ਹੋ.",
+        "registrationFailed": "ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਅਸਫਲ ਹੋ ਗਿਆ!!! ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+        "validUpline": "ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਅਪਲਾਈਨ ਆਈਡੀ ਚੁਣੋ",
+        "invalidUpline": "ਅਪਲਾਈਨ ਆਈਡੀ ਇਨਵੈਲੀਡ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਅਪਲਾਈਨ ਆਈਡੀ ਦਰਜ ਕਰੋ. ਇਹ 8 ਅੰਕਾਂ ਦੀ ਹੋਣੀ ਚਾਹੀਦੀ ਹੈ. ਕਿਸੇ ਸਪੇਸ਼ਲ ਕਰੈਕਟਰਸ ਦੀ ਆਗਿਆ ਨਹੀਂ ਹੈ.",
+        "invalidName": "ਨਾਮ ਇਨਵੈਲਿਡ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਨਾਮ ਦਰਜ ਕਰੋ",
+        "invalidUserTitle": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਟਾਈਟਲ ਚੁਣੋ.",
+        "invalidLastName": "ਅੰਤਿਮ ਨਾਮ ਇਨਵੈਲਿਡ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਅੰਤਿਮ ਨਾਮ ਦਰਜ ਕਰੋ",
+        "invalidUserGender": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਲਿੰਗ ਚੁਣੋ.",
+        "invalidPhoneNumber": "ਫੋਨ ਨੰਬਰ ਇਨਵੈਲਿਡ ਹੈ",
+        "invalidAddress": "ਅਯੋਗ ਐਡਰੈੱਸ, ਕਿਰਪਾ ਕਰਕੇ ਸਹੀ ਪਤਾ ਦਾਖਲ ਕਰੋ, ਇਹ 1 ਤੋਂ 100 ਅੱਖਰਾਂ ਦੇ ਵਿਚਕਾਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ",
+        "invalidEmail": "ਈਮੇਲ ਆਈਡੀ ਇਨਵੈਲਿਡ ਹੈ. ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਈਮੇਲ ਦਰਜ ਕਰੋ",
+        "invalidPassword": "ਪਾਸਵਰਡ ਨਿਮਨਤਮ 6 ਕਰੈਕਟਰਸ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ. ਸਪੇਸ ਦੇਣ ਦੀ ਆਗਿਆ ਨਹੀਂ ਹੈ",
+        "invalidConfirmPassword": "ਕੰਫਰਮ ਪਾਸਵਰਡ ਨਿਮਨਤਮ 6 ਕਰੈਕਟਰਸ ਦਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ. ਸਪੇਸ ਦੇਣ ਦੀ ਆਗਿਆ ਨਹੀਂ ਹੈ",
+        "invalidMatchPassword": "ਪਾਸਵਰਡ ਮੈਚ ਨਹੀਂ ਹੋਇਆ",
+        "invalidDistributorId": "ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਆਈਡੀ ਇਨਵੈਲਿਡ ਹੈ",
+        "invalidDob": "ਜਨਮ ਦੀ ਤਾਰੀਖ ਇਨਵੈਲਿਡ ਹੈ, ਤੁਸੀਂ ਯੋਗ ਨਹੀਂ ਹੋ, ਤੁਹਾਡੀ ਉਮਰ 18 ਸਾਲ ਤੋਂ ਘੱਟ ਹੈ",
+        "invalidPanNumber": "ਪੈਨ ਨੰਬਰ ਇਨਵੈਲਿਡ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਪੈਨ ਨੰਬਰ ਦਰਜ ਕਰੋ",
+        "invalidCoDistributorTitle": "ਕਿਰਪਾ ਕਰਕੇ ਕੋ-ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਦਾ ਟਾਈਟਲ ਚੁਣੋ.",
+        "invalidCodistributorDob": "ਕੋ-ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਦੇ ਜਨਮ ਦੀ ਤਾਰੀਖ ਇਨਵੈਲਿਡ ਹੈ, ਕੋ-ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਦੀ ਉਮਰ 18 ਸਾਲ ਤੋਂ ਘੱਟ ਹੈ",
+        "invalidCoDistributorName": "ਕੋ-ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਦਾ ਨਾਮ ਇਨਵੈਲਿਡ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਕੋ-ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਦਾ ਵੈਲਿਡ ਨਾਮ ਦਰਜ ਕਰੋ",
+        "invalidCoDistributorLastName": "ਕੋ-ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਦਾ ਅੰਤਿਮ ਨਾਮ ਇਨਵੈਲਿਡ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਕੋ-ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਦਾ ਵੈਲਿਡ ਅੰਤਿਮ ਨਾਮ ਦਰਜ ਕਰੋ",
+        "invalidPinCode": "ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਪਿਨਕੋਡ ਪ੍ਰਦਾਨ ਕਰੋ",
+        "invalidCountry": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਦੇਸ਼ ਚੁਣੋ",
+        "invalidState": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਪ੍ਰਦੇਸ਼ ਚੁਣੋ",
+        "invalidCity": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਸ਼ਹਿਰ ਚੁਣੋ",
+        "invalidDistributor": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੀ ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਆਈਡੀ ਚੁਣੋ",
+        "noDownlineFound": "ਇਸ ਯੂਜ਼ਰ ਲਈ ਕੋਈ ਡਾਊਨਲਾਈਨ ਨਹੀਂ ਮਿਲੀ!",
+        "noDownlineForLoggedInDistributor": "ਤੁਹਾਡੇ ਲਈ ਕੋਈ ਡਾਊਨਲਾਈਨ ਨਹੀਂ ਮਿਲੀ!",
+        "noUpline": "ਇਸ ਯੂਜ਼ਰ ਲਈ ਕੋਈ ਅਪਲਾਈਨ ਨਹੀਂ ਮਿਲੀ!",
+        "distributorError": "ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਆਈਡੀ ਇਨਵੈਲਿਡ ਹੈ",
+        "stateError": "ਕਿਰਪਾ ਕਰਕੇ ਪਹਿਲਾਂ ਦੇਸ਼ ਚੁਣੋ.",
+        "cityError": "ਕਿਰਪਾ ਕਰਕੇ ਪਹਿਲਾਂ ਪ੍ਰਦੇਸ਼ ਚੁਣੋ.",
+        "registrationHeading": "ਰਜਿਸਟ੍ਰੇਸ਼ਨ ਸਫਲਤਾਪੂਰਵਕ ਹੋ ਗਿਆ!!!",
+        "notEligible": "ਤੁਸੀਂ ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਬਣਨ ਦੇ ਯੋਗ ਨਹੀਂ ਹੋ",
+        "registrationSuccessfull": "ਤੁਸੀਂ ਵੈਸਟਿਜ ਦੇ ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਬਣ ਗਏ ਹੋ!!!",
+        "title": "ਸਾਈਨ-ਅੱਪ",
+        "enterReferral": "ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਰੈਫਰਲ ਕੋਡ ਦਰਜ ਕਰੋ",
+        "invalidReferralCode": "ਰੈਫਰਲ ਕੋਡ ਇਨਵੈਲਿਡ ਹੈ",
+        "joiningUnder": "ਤੁਸੀਂ ਇਨ੍ਹਾਂ ਦੇ ਅਧੀਨ ਜੋਇਨ ਕਰ ਰਹੇ ਹੋ:",
+        "referralSuccess": "ਰੈਫਰਲ ਕੋਡ ਸਫਲਤਾਪੂਰਵਕ ਲਾਗੂ ਕੀਤਾ ਗਿਆ",
+        "refferalCodeError": "ਰੈਫਰਲ ਕੋਡ ਇਨਵੈਲਿਡ ਹੈ",
+      },
+      "location": {
+        "locationSave": "ਲੋਕੇਸ਼ਨ ਨੂੰ ਸਫਲਤਾਪੂਰਵਕ ਸੇਵ ਕੀਤਾ ਗਿਆ",
+        "unableToSave": "ਅਸੀਂ ਤੁਹਾਡੀ ਲੋਕੇਸ਼ਨ ਨੂੰ ਸੇਵ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ ਹਾਂ. ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਨੂੰ ਮੈਨੂਅਲੀ ਸੈੱਟ ਕਰੋ",
+        "addressError": "ਕਿਰਪਾ ਕਰਕੇ ਪੂਰਾ ਐਡਰੈੱਸ ਭਰੋ",
+        "pincodeRequired": "ਕਿਰਪਾ ਕਰਕੇ ਪਹਿਲਾਂ ਆਪਣਾ ਪਿਨਕੋਡ ਭਰੋ",
+        "mandatoryError": "ਕਿਰਪਾ ਕਰਕੇ ਸਾਰੀ ਲਾਜ਼ਮੀ ਫੀਲਡਸ ਭਰੋ",
+        "noStoreFound": "ਤੁਹਾਡੇ ਏਰੀਏ ਵਿੱਚ ਕੋਈ ਸਟੋਰ ਨਹੀਂ ਮਿਲਿਆ",
+        "noStorePickupAvailable1": "ਮੁਆਫ ਕਰਨਾ, ਤੁਹਾਡੇ ਏਰੀਏ ਵਿੱਚ ਅਜੇ ਸਾਡਾ ਕੋਈ ਸਟੋਰ ਨਹੀਂ ਹੈ.",
+        "noStorePickupAvailable2": "ਕਿਰਪਾ ਕਰਕੇ ਕਿਸੇ ਹੋਰ ਪਿਨ ਕੋਡ ਜਾਂ ਹੋਮ ਡਿਲੀਵਰੀ ਨਾਲ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+        "detectLocationError": "ਲੋਕੇਸ਼ਨ ਉਪਲਬਧ ਨਹੀਂ ਹੈ!!! ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ.",
+        "locationPermission1": "ਲੋਕੇਸ਼ਨ ਦੀ ਆਗਿਆ,",
+        "locationPermission2": "ਕਿਰਪਾ ਕਰਕੇ ਸੈਟਿੰਗਸ ਨੂੰ ਖੋਲੋ ਅਤੇ ਵੈਸਟਿਜ ਲਈ ਲੋਕੇਸ਼ਨ ਦੀ ਆਗਿਆ ਨੂੰ ਯੋਗ ਕਰੋ",
+        "inputType": "ਇੱਥੇ ਕੋਈ ਸਪੇਸ਼ਲ ਕਰੈਕਟਰਸ ਦੀ ਆਗਿਆ ਨਹੀਂ ਹੈ. ਸਿਰਫ ਨਿਊਮੈਰਿਕ ਦੀ ਆਗਿਆ ਹੈ.",
+        "locationPermissionTitle": "ਲੋਕੇਸ਼ਨ ਦੀ ਆਗਿਆ ਨੂੰ ਯੋਗ ਕਰੋ",
+        "locationPermissionMessage": "ਤੁਹਾਡੀ ਲੋਕੇਸ਼ਨ ਦੇ ਆਧਾਰ ਤੇ ਟ੍ਰੈਂਡਿੰਗ ਕੰਟੈਂਟ ਦਾ ਸੁਝਾਅ ਪ੍ਰਾਪਤ ਕਰੋ.",
+        "validData": "ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਡਾਟਾ ਪ੍ਰਦਾਨ ਕਰੋ",
+        "enableLocation": "ਕਿਰਪਾ ਕਰਕੇ ਨਿਰਧਾਰਿਤ ਸਥਾਨ ਸੇਵਾਵਾਂ ਸਮਰੱਥ ਕਰੋ",
+        "unableTogetLocation": "ਅਸੀਂ ਤੁਹਾਡੀ ਲੋਕੇਸ਼ਨ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ ਹਾਂ. ਕਿਰਪਾ ਕਰਕੇ ਕਿਸੀ ਹੋਰ ਲੋਕੇਸ਼ਨ ਨਾਲ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜਾਂ ਲੋਕੇਸ਼ਨ ਨੂੰ ਮੈਨੂਅਲੀ ਸੈੱਟ ਕਰੋ"
+      },
+      "cartVoucher": {
+        "validGiftVoucher": "ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਗਿਫਟ ਵਾਊਚਰ ਪ੍ਰਦਾਨ ਕਰੋ.",
+        "successfullyApplied": "ਕੂਪਨ ਨੂੰ ਸਫਲਤਾਪੂਰਵਕ ਲਾਗੂ ਕੀਤਾ ਗਿਆ.",
+        "invalidCoupon": "ਕੂਪਨ ਇਨਵੈਲਿਡ ਹੈ",
+        "validBonusVoucher": "ਕਿਰਪਾ ਕਰਕੇ ਵੈਲਿਡ ਬੋਨਸ ਵਾਊਚਰ ਪ੍ਰਦਾਨ ਕਰੋ.",
+        "successfullyAppliedBonus": "ਬੋਨਸ ਵਾਊਚਰ ਸਫਲਤਾਪੂਰਵਕ ਲਾਗੂ ਕੀਤਾ ਗਿਆ.",
+        "invalidBonus": "ਬੋਨਸ ਵਾਊਚਰ ਇਨਵੈਲਿਡ ਹੈ."
+      }
+    },
+    "referralScreen": {
+        "referralCodeTitle": "ਆਪਣਾ ਰੈਫਰਲ ਕੋਡ ਸ਼ੇਅਰ ਕਰੋ",
+        "copiedToCLipBoardTitle": "ਕਲਿੱਪਬੋਰਡ ਤੇ ਕਾਪੀ ਕੀਤਾ ਗਿਆ!",
+        "message1": "ਵੈਸਟਿਜ ਦੇ ਵੱਡੇ ਨੈੱਟਵਰਕ ਨੂੰ ਜੋਇਨ ਕਰਨ ਲਈ, ਆਪਣੇ ਨਜ਼ਦੀਕੀ ਲੋਕਾਂ ਨੂੰ ਰੈਫਰ ਕਰੋ",
+        "message2": "ਵੈਸਟਿਜ ਦਾ ਹਿੱਸਾ ਬਣਕੇ ਉਨ੍ਹਾਂ ਨੂੰ ਵੀ ਲਾਭਾਂ ਦਾ ਆਨੰਦ ਲੈਣ ਦਵੋ",
+        "message3": "ਉਨ੍ਹਾਂ ਨੂੰ ਵੈੱਲਥ ਵਿਸ਼ ਕਰੋ"
+      },
+      "failureScreen": {
+        "errorHeading": "ਓ ਓ ਪੀ ਐਸ! ਕੋਈ ਇੰਟਰਨੈਟ ਨਹੀਂ",
+        "errorMessage": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਨੈਟਵਰਕ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ",    
+        "retry": "ਫਿਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ"
+      },
+      "viewCartScreen": {
+        "totalEarnedPv": "ਕਮਾਈ ਗਈ ਟੋਟਲ ਪੀਵੀ",
+        "totalAmountToBePaid": "ਟੋਟਲ ਅਮਾਊਂਟ, ਜਿਸ ਦੀ ਪੇਮੇਂਟ ਕਰਨੀ ਹੈ",
+        "inventoryMessageTitle": "ਇਨਵੈਂਟਰੀ ਮੈਸੇਜ",
+        "singleCartInventoryMessage": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਕਾਰਟ ਨੂੰ ਜਾਂਚੋ ਅਤੇ ਚੈੱਕਆਊਟ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ, ਲਾਲ ਰੰਗ ਨਾਲ ਮਾਰਕ ਕੀਤੇ ਗਏ ਪ੍ਰੋਡਕਟਸ ਹਟਾਓ.",
+        "inStockAvailableProducts": "ਤੁਹਾਡੇ ਵਲੋਂ ਆਰਡਰ ਕੀਤੇ ਗਏ ਪ੍ਰੋਡਕਟਸ ਸਟੋਕ ਵਿੱਚ ਉਪਲਬਧ ਹਨ. ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਆਰਡਰ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਜਾਰੀ ਰੱਖੋ.",
+        "alertButtonTextOk": "ਓਕੇ",
+        "alertButtonTextConfirm": "ਕੰਫਰਮ",
+        "alertButtonTextReviewCart": "ਕਾਰਟ ਜਾਂਚੋ",
+        "inventoryIsNotAvailableRightNow": "ਇਨਵੈਂਟਰੀ ਅਜੇ ਉਪਲਬਧ ਨਹੀਂ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਕਾਰਟ ਨੂੰ ਰਿਫ੍ਰੈਸ਼ ਕਰੋ."
+      },
+      "addNewAddressScreen": {
+        "screenTitle": "ਨਵਾਂ ਐਡਰੈੱਸ ਜੋੜੋ",
+        "addressKey": "ਐਡਰੈੱਸ",
+        "addressType": "ਐਡਰੈੱਸ ਟਾਈਪ",
+        "defaultAddress": "ਇਸ ਨੂੰ ਮੇਰਾ ਡਿਫਾਲਟ ਐਡਰੈੱਸ ਬਣਾਓ",
+        "confirmAddressButtonTitle": "ਕੰਫਰਮ ਐਡਰੈੱਸ"
+      },
+      "cartCheckout": {
+        "screenTitle": "ਆਰਡਰ ਸਮਰੀ",
+        "cashOrdersPlacedSuccessfullyMessage": "ਕੈਸ਼ ਆਰਡਰਸ ਨੂੰ ਸਫਲਤਾਪੂਰਵਕ ਦਿੱਤਾ ਗਿਆ, ਆਨਲਾਈਨ ਪੇਮੇਂਟ ਕਰਨ ਲਈ ਜਾਰੀ ਰੱਖੋ",
+        "totalCashAmount": "ਟੋਟਲ ਅਮਾਊਂਟ (ਕੈਸ਼)",
+        "totalOnlineAmount": "ਟੋਟਲ ਅਮਾਊਂਟ (ਆਨਲਾਈਨ)",
+        "shippingAmount": "ਸ਼ਿਪਿੰਗ ਅਮਾਊਂਟ",
+        "totalAmountToBePaid": "ਟੋਟਲ ਅਮਾਊਂਟ, ਜਿਸ ਦੀ ਪੇਮੇਂਟ ਕਰਨੀ ਹੈ",
+        "totalOrderSummary": "ਆਰਡਰ ਸਮਰੀ",
+        "orderId": "ਆਰਡਰ ਆਈਡੀ :",
+        "continueShoppingButton": "ਸ਼ੋਪਿੰਗ ਜਾਰੀ ਰੱਖੋ",
+        "payOnlineText": "ਆਨਲਾਈਨ ਪੇਮੇਂਟ ਕਰੋ",
+        "completeOrderText": "ਆਰਡਰ ਪੂਰਾ ਕਰੋ",
+        "quantityText": "ਮਾਤਰਾ:",
+        "priceText": "Price: ",
+        "deliveryAddress": "ਡਿਲੀਵਰੀ ਐਡਰੈੱਸ",
+        "storeAddress": "ਸਟੋਰ ਐਡਰੈੱਸ"
+      },
+      "consistencyScreen": {
+        "invoiceNumber": "ਇਨਵੋਈਸ ਨੰਬਰ",
+        "amount": "ਅਮਾਊਂਟ",
+        "voucherType": "ਵਾਊਚਰ ਟਾਈਪ",
+        "voucherStatus": "ਵਾਊਚਰ ਸਟੇਟਸ",
+        "invoiceNo": "ਇਨਵੋਈਸ ਨੰ.",
+        "voucherNo": "ਵਾਊਚਰ ਨੰ.",
+        "monthTitle": "ਮਹੀਨਾ",
+        "totalInvoiceTitle": "ਟੋਟਲ ਇਨਵੋਈਸ"
+      },
+      "locationScreen": {
+        "screenTitle": "ਡਿਲੀਵਰੀ ਐਡਰੈੱਸ",
+        "timingsKey": "ਸਮਾਂ:",
+        "distanceKey": "ਦੂਰੀ:",
+        "selectDeliveryType": "ਆਪਣਾ ਡਿਲਿਵਰੀ ਟਾਈਪ ਚੁਣੋ",
+        "noAddressesAddedTitle": "ਅਜੇ ਤੱਕ ਕੋਈ ਐਡਰੈੱਸ ਨਹੀਂ ਜੋੜਿਆ ਗਿਆ. ਕਿਰਪਾ ਕਰਕੇ ਨਵਾਂ ਐਡਰੈੱਸ ਜੋੜੋ",
+        "addNewAddress": "ਨਵਾਂ ਐਡਰੈੱਸ ਜੋੜੋ",
+        "recentAddressesTitle": "ਹਾਲੀਆ ਐਡਰੈੱਸਿਜ਼",
+        "locationOptions": "ਡਿਲਿਵਰੀ/ਪਿੱਕ ਅੱਪ ਐਡਰੈੱਸ",
+        "locationScreenButtonTitle": "ਸੇਵ",
+        "noServicesMessage": "ਅਸੀਂ ਤੁਹਾਡੇ ਦੇਸ਼ ਵਿੱਚ ਸਰਵਿਸ ਨਹੀਂ ਪ੍ਰਦਾਨ ਕਰ ਰਹੇ",
+        "selectStorePickup": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਸਟੋਰ ਪਿੱਕ-ਅੱਪ ਚੁਣੋ",
+        "detectLocationKey": "ਲੋਕੇਸ਼ਨ ਸਰਚ ਕਰੋ",
+        "addressDetail": "ਐਡਰੈੱਸ ਦਾ ਵੇਰਵਾ"
+      },
+      "myNetworkScreen": {
+        "previousPv": "ਪ੍ਰੀਵਿਅਸ ਕਯੁਮੁਲੇਟਿਵ ਪੀਵੀ",
+        "exclusivePv": "ਐਕਸਕਲੂਸਿਵ",
+        "selfPv": "ਸੈਲਫ ਪੀਵੀ",
+        "groupPv": "ਗਰੁੱਪ ਪੀਵੀ",
+        "totalPv": "ਟੋਟਲ ਪੀਵੀ",
+        "mainUpline": "ਮੁੱਖ ਅਪਲਾਈਨ",
+        "upline": "ਅਪਲਾਈਨ",
+        "downline": "ਡਾਊਨਲਾਈਨ",
+        "pointValue": "ਪੁਆਇੰਟ ਵੈਲਯੂ"
+      },
+      "myTrainingScreen": {
+        "budgetDetails": "ਬਜਟ ਦਾ ਵੇਰਵਾ ਦੇਖੋ",
+        "venueRent": "ਵੈਨਯੂ ਦਾ ਕਿਰਾਇਆ",
+        "travel": "ਟ੍ਰੈਵਲ",
+        "hotel": "ਹੋਟਲ",
+        "food": "ਫੂਡ",
+        "misc": "ਮਿਸਲੇਨੀਅਸ",
+        "honorarium": "ਓਨੋਰੇਰੀਅਮ ਚਾਰਜਿਸ",
+        "searchBy": "ਇਸ ਰਾਹੀਂ ਸਰਚ ਕਰੋ:",
+        "editTraining": "ਟ੍ਰੇਨਿੰਗ ਐਡਿਟ ਕਰੋ",
+        "newTraining": "ਨਿਊ ਟ੍ਰੇਨਿੰਗ"
+      },
+      "notification": {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "time": "'ਅੱਜ | 2:00PM'",
+        "title": "ਨੋਟੀਫਿਕੇਸ਼ਨ"
+      },
+      "order": {
+        "confirmation": "ਕੰਫਰਮੇਸ਼ਨ",
+        "orderConfirmed": "ਤੁਹਾਡਾ ਆਰਡਰ ਕੰਫਰਮ ਹੋ ਗਿਆ ਹੈ",
+        "thanks": "ਸ਼ੋਪਿੰਗ ਲਈ ਧੰਨਵਾਦ!",
+        "notShipped": "ਤੁਹਾਡਾ ਆਰਡਰ ਅਜੇ ਤੱਕ ਸ਼ਿਪ ਨਹੀਂ ਕੀਤਾ ਗਿਆ, ਪਰ ਸ਼ਿਪ ਹੋਣ ਤੇ ਅਸੀਂ ਤੁਹਾਨੂੰ ਈਮੇਲ ਭੇਜਾਂਗੇ",
+        "cartDetails": "ਕਾਰਟ ਦਾ ਵੇਰਵਾ ਦੇਖੋ",
+        "shippingAddress": "ਸ਼ਿਪਿੰਗ ਐਡਰੈੱਸ",
+        "backToHome": "ਹੋਮਪੇਜ ਤੇ ਵਾਪਸ ਜਾਓ",
+        "searchBy": "ਇਸ ਰਾਹੀਂ ਸਰਚ ਕਰੋ:",
+        "myOrder": {
+          "heading": "ਮਾਈ ਆਰਡਰ"
+        },
+        "orderDetails": {
+          "heading": "ਆਰਡਰ ਦਾ ਵੇਰਵਾ",
+          "alertHeading": "ਆਰਡਰ ਕੈਂਸਲ ਕਰੋ",
+          "alertMessage": "ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਆਪਣਾ ਆਰਡਰ ਕੈਂਸਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?",
+          "cancelButton": "ਆਰਡਰ ਕੈਂਸਲ ਕਰੋ",
+          "orderNo": "ਆਰਡਰ ਨੰਬਰ",
+          "itemNo": "ਆਈਟਮਸ ਦੀ ਗਿਣਤੀ",
+          "orderDate": "ਆਰਡਰ ਦੀ ਤਾਰੀਖ",
+          "orderTotal": "ਆਰਡਰ ਦਾ ਟੋਟਲ",
+          "orderStatus": "ਆਰਡਰ ਸਟੇਟਸ",
+          "deliveyMode": "ਡਿਲਿਵਰੀ ਮੋਡ",
+          "paymentMode": "ਪੇਮੇਂਟ ਮੋਡ",
+          "distId": "ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਆਈਡੀ",
+          "distName": "ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਦਾ ਨਾਮ",
+          "storePick": "ਸਟੋਰ ਪਿੱਕ-ਅੱਪ",
+          "shipping": "ਸ਼ਿਪਿੰਗ ਐਡਰੈੱਸ",
+          "productName": "ਪ੍ਰੋਡਕਟ ਦਾ ਨਾਮ",
+          "discount": "ਡਿਸਕਾਊਂਟ",
+          "totalAmount": "ਟੋਟਲ ਅਮਾਊਂਟ"
+        }
+      },
+      "payment": {
+        "selectMethod": "ਆਪਣੀ ਪੇਮੇਂਟ ਦਾ ਤਰੀਕਾ ਚੁਣੋ",
+        "amountToPay": "ਟੋਟਲ ਅਮਾਊਂਟ, ਜਿਸ ਦੀ ਪੇਮੇਂਟ ਕਰਨੀ ਹੈ",
+        "title": "ਪੇਮੇਂਟ",
+        "paymentFailure": "ਪੇਮੇਂਟ ਨਹੀਂ ਹੋ ਪਾਈ",
+        "paymentFailed": "ਪੇਮੇਂਟ ਨਹੀਂ ਹੋ ਪਾਈ"
+      },
+      "payout": {
+        "generateBonus": "ਬੋਨਸ ਬਣਾਓ",
+        "cancel": "ਕੈਂਸਲ"
+      },
+      "recommendation": {
+        "title": "ਰਿਕਮੰਡੇਸ਼ਨਸ",
+        "detailsTitle": "ਰਿਕਮੰਡੇਸ਼ਨ ਦਾ ਵੇਰਵਾ",
+        "distId": "ਡਿਸਟ੍ਰੀਬਯੂਟਰ ਆਈਡੀ",
+        "percentage": "ਪਰਸੈਂਟੇਜ (%)",
+        "or": "ਜਾਂ",
+        "setTarget": "ਆਪਣਾ ਟਾਰਗੇਟ ਇਸ ਅਨੁਸਾਰ ਸੈੱਟ ਕਰੋ:",
+        "level": "ਲੈਵਲ",
+        "go": "ਗੋ",
+        "totalPv": "ਟੋਟਲ ਪੀਵੀ",
+        "qualifiedLeg": "ਮੌਜੂਦਾ ਕੁਆਲੀਫਾਈਡ ਲੈੱਗ",
+        "targetLeg": "ਟਾਰਗੇਟ ਲੈੱਗ",
+        "currentMaintain": "ਮੌਜੂਦਾ ਸਾਈਡ ਮੈਂਟੇਨੈਂਸ",
+        "targetMaintain": "ਟਾਰਗੇਟ ਮੈਂਟੇਨੈਂਸ",
+        "currentPv": "ਮੌਜੂਦਾ ਕਯੁਮੁਲੇਟਿਵ ਪੀਵੀ",
+        "existingBonus": "ਮੌਜੂਦਾ ਬੋਨਸ ਪਰਸੈਂਟ",
+        "shortPoint": "ਸ਼ੋਰਟ ਪੁਆਇੰਟ"
+      },
+      "shoppingHomeScreen": {
+        "title": {
+          "category": "ਕੈਟਗਰੀ ਦੇ ਅਨੁਸਾਰ ਖਰੀਦੋ",
+          "pv": "ਪੀਵੀ ਦੇ ਅਨੁਸਾਰ ਖਰੀਦੋ",
+          "new": "ਨਵੇਂ ਲਾਂਚ ਕੀਤੇ ਪ੍ਰੋਡਕਟਸ",
+          "sponsor": "ਸਪੋਨਸਰ ਕੀਤੇ ਪ੍ਰੋਡਕਟਸ",
+          "inCart": "ਤੁਹਾਡੇ ਕਾਰਟ ਵਿੱਚ ਉਪਲਬਧ ਆਈਟਮਸ",
+          "recentView": "ਹਾਲੀਆ ਦੇਖੇ ਗਏ"
+        }
+      },
+      "headerComponent": {
+        "storePic": "ਸਟੋਰ ਪਿੱਕ-ਅੱਪ",
+        "homeDelivery": "`ਹੋਮ ਡਿਲਿਵਰੀ",
+        "cancel": "ਕੈਂਸਲ",
+        "skip": "ਛੱਡੋ",
+        "cameraPressed": "Camera Pressed.",
+        "microPhone": "Microphone Pressed."
+      },
+      "profile": {
+        "title": "ਮਾਈ ਪ੍ਰੋਫਾਈਲ",
+        "noPincode": "ਕੋਈ ਪਿੰਨ ਕੋਡ ਨਹੀਂ ਮਿਲਿਆ",
+        "noAddress": "ਕੋਈ ਐਡਰੈੱਸ ਨਹੀਂ ਮਿਲਿਆ",
+        "noCity": "ਕੋਈ ਸ਼ਹਿਰ ਨਹੀਂ ਮਿਲਿਆ",
+        "noState": "ਕੋਈ ਪ੍ਰਦੇਸ਼ ਨਹੀਂ ਮਿਲਿਆ",
+        "noCountry": "ਕੋਈ ਦੇਸ਼ ਨਹੀਂ ਮਿਲਿਆ"
+      },
+      "cartVouchersScreen": {
+        "screenTitle": "ਵਾਊਚਰਸ",
+        "quantityKey": "ਮਾਤਰਾ",
+        "noPromotionsAvailableTextMessage": "ਮੁਆਫ ਕਰਨਾ, ਇਸ ਵੇਲੇ ਕੋਈ ਪ੍ਰਮੋਸ਼ਨਸ ਉਪਲਬਧ ਨਹੀਂ ਹਨ.",
+        "pleaseTryAgainMessage": "ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ!",
+        "noPromotionsFoundForYou": "ਮੁਆਫ ਕਰਨਾ, ਤੁਹਾਡੇ ਲਈ ਕੋਈ ਪ੍ਰਮੋਸ਼ਨਸ ਨਹੀਂ ਮਿਲੇ!",
+        "promotionsKey": "ਪ੍ਰਮੋਸ਼ਨਸ",
+        "enterGiftVoucherCode": "ਬੋਨਸ ਗਿਫਟ ਕੋਡ ਦਰਜ ਕਰੋ",
+        "enterBonusVoucherCode": "ਬੋਨਸ ਵਾਊਚਰ ਕੋਡ ਦਰਜ ਕਰੋ",
+        "proceedButtonTitle": "ਅੱਗੇ ਵਧੋ"
+      },
+      "winnerDetailModalBox": {
+        "topCarWinners": "ਟਾਪ ਕਾਰ ਵੀਨਰਸ",
+        "topHomeWinners": "ਟਾਪ ਹੋਮ ਵੀਨਰਸ",
+        "topTripWinners": "ਟਾਪ ਟ੍ਰਿਪ ਵੀਨਰਸ",
+        "noDataFoundText": "ਕੋਈ ਡਾਟਾ ਨਹੀਂ ਮਿਲਿਆ"
+      },
+      "levelComponent": {
+        "targetKey": "ਟਾਰਗੇਟ",
+        "ptsKey": "ਪੁਆਇੰਟਸ",
+        "groupPv": "ਗਰੁੱਪ ਪੀਵੀ",
+        "myNetwork": "ਮਾਈ ਨੈੱਟਵਰਕ"
+      },
+      "userProfileComponent": {
+        "trainerTitle": "ਟ੍ਰੇਨਰ",
+        "lastMonthLevelTitle": "ਪਿੱਛਲੇ ਮਹੀਨੇ ਦਾ ਲੈਵਲ",
+        "nextLevel": "ਅਗਲਾ ਲੈਵਲ",
+        "myPv": "ਮਾਈ ਪੀਵੀ",
+        "groupPv": "ਗਰੁੱਪ ਪੀਵੀ",
+        "myNetworkTitle": "ਮਾਈ ਨੈੱਟਵਰਕ",
+        "recommendationTitle": "ਰਿਕਮੰਡੇਸ਼ਨ",
+        "referAFriendTitle": "ਦੋਸਤ ਨੂੰ ਰੈਫਰ ਕਰੋ"
+      },
+      "emptyScreenMessages": {
+        "cartEmptyMessage": "ਅਜੇ ਤੁਹਾਡਾ ਕਾਰਟ ਖਾਲੀ ਹੈ",
+        "orderListEmpty": "ਤੁਹਾਡੀ ਆਰਡਰ ਲਿਸਟ ਖਾਲੀ ਹੈ",
+        "noVouchersMessage": "ਤੁਹਾਡੇ ਕੋਲ ਕੋਈ ਵਾਊਚਰਸ ਨਹੀਂ ਹਨ",
+        "noNotificationsMessage": "ਕੋਈ ਨੋਟੀਫਿਕੇਸ਼ਨਸ ਨਹੀਂ ਹਨ",
+        "noResultFoundMessage": "ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ ਮਿਲੇ",
+        "noProductsFoundMessage": "ਕੋਈ ਪ੍ਰੋਡਕਟਸ ਨਹੀਂ ਮਿਲੇ",
+        "noDataFoundMessage": "ਕੋਈ ਡਾਟਾ ਨਹੀਂ ਮਿਲਿਆ",
+        "emptyDownlineCartMessage": "ਡਾਊਨਲਾਈਨ ਦਾ ਕਾਰਟ ਖਾਲੀ ਹੈ. ਸਰਚ ਕਰਕੇ ਜੋੜੋ ਅਤੇ ਉਨ੍ਹਾਂ ਲਈ ਸ਼ੋਪਿੰਗ ਸ਼ੁਰੂ ਕਰੋ"
+      },
+      "createDownlineCartComponent": {
+        "validateButtonText": "ਵੈਲਿਡੇਟ",
+        "cartCreatedSuccessfullyTitle": "ਕਾਰਟ ਸਫਲਤਾਪੂਰਵਕ ਬਣਾਇਆ ਗਿਆ",
+        "createAnotherCart": "ਇੱਕ ਹੋਰ ਕਾਰਟ ਬਣਾਓ",
+        "continueShopping": "ਸ਼ੋਪਿੰਗ ਜਾਰੀ ਰੱਖੋ",
+        "idKey": "ਆਈਡੀ",
+        "alreadyAddedTitle": "ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਜੁੜਿਆ ਹੋਇਆ ਹੈ",
+        "createCartButtonTitle": "ਕਾਰਟ ਬਣਾਓ",
+        "createCartForDownline": "ਡਾਊਨਲਾਈਨ ਲਈ ਕਾਰਟ ਬਣਾਓ",
+        "createAnotherCartMessage": "ਇੱਕ ਹੋਰ ਕਾਰਟ ਬਣਾਓ",
+        "shopNowButtonText": "ਹੁਣੇ ਖਰੀਦੋ"
+      },
+      "coachMarksInformation": {
+        "menuTooltipTitle": "ਮੀਨੂ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਆਈਕਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ",
+        "notificationsTooltipTitle": "ਨੋਟੀਫਿਕੇਸ਼ਨ ਨੂੰ ਦੇਖਣ ਲਈ, ਬੈੱਲ ਆਈਕਨ ਨੂੰ ਕਲਿੱਕ ਕਰੋ",
+        "dashboardTooltipTitle": "ਯੂਜ਼ਰ ਡੈਸ਼ਬੋਰਡ",
+        "dashBoardDescriptionInfo": {
+          "firstPoint": "# ਆਪਣਾ ਨੈੱਟਵਰਕ, ਪੀਵੀ, ਫੰਡਸ ਆਦਿ ਦੇਖੋ",
+          "secondPoint": "ਆਪਣੀ ਡਾਊਨਲਾਈਨ ਵਿੱਚ ਨਵੇਂ ਮੈਂਬਰਸ ਨੂੰ ਓਨਬੋਰਡ ਕਰੋ",
+          "thirdPoint": "# ਵੈਸਟਿਜ ਦੇ ਪ੍ਰੇਰਣਾਦਾਇਕ ਵੀਡੀਓਜ਼ ਦੇਖੋ.",
+          "fourthPoint": "# ਸਿੱਧਾ ਬ੍ਰਾਂਡਸ, ਕੈਟਗਰੀ ਅਤੇ ਪੀਵੀ ਰਾਹੀਂ ਸ਼ੋਪਿੰਗ ਕਰੋ.",
+          "fifthPoint": "# ਵੈਸਟਿਜ ਅਚੀਵਰਸ ਨੂੰ ਦੇਖੋ."
+        },
+        "shoppingTooltipTitle": "ਸ਼ੋਪਿੰਗ",
+        "shoppingTabInfo": {
+          "firstPoint": "# ਨਵੇਂ ਪ੍ਰਮੋਸ਼ਨਸ ਦੇਖੋ.",
+          "secondPoint": "# ਕੈਟਗਰੀ, ਬ੍ਰਾਂਡਸ, ਪੀਵੀ ਆਦਿ ਰਾਹੀਂ ਤੁਰੰਤ ਸ਼ੋਪਿੰਗ ਕਰੋ.",
+          "thirdPoint": "# ਸ਼ੋਪਿੰਗ ਦੇ ਰਿਕਮੰਡੇਸ਼ਨਸ ਪਾਓ.",
+          "fourthPoint": "# ਹੋਰ ਡਿਸਟ੍ਰੀਬਯੂਟਰਸ ਵਲੋਂ ਅਕਸਰ ਖਰੀਦੇ ਜਾਣ ਵਾਲੇ ਪ੍ਰੋਡਕਟਸ ਪਾਓ."
+        },
+        "searchAnItemTitle": "ਕੋਈ ਆਈਟਮ ਸਰਚ ਕਰੋ",
+        "searchTabInfo": {
+          "firstPoint": "# ਨਾਮ, ਬ੍ਰਾਂਡ, ਕੈਟਗਰੀ ਰਾਹੀਂ ਆਪਣਾ ਲੋੜੀਂਦਾ ਪ੍ਰੋਡਕਟ ਸਰਚ ਕਰੋ.",
+          "secondPoint": "# ਆਪਣੇ ਪ੍ਰੋਡਕਟਸ ਨੂੰ ਸਿੱਧਾ ਕਾਰਟ ਵਿੱਚ ਜੋੜੋ.",
+          "thirdPoint": "# ਆਪਣੇ ਸਰਚ ਰਿਜਲਟਸ ਨੂੰ ਸੋਰਟ ਅਤੇ ਫਿਲਟਰ ਕਰੋ."
+        },
+        "wishlistTitle": "ਵਿਸ਼ਲਿਸਟ",
+        "wishListDescription": "# ਤੁਸੀਂ ਆਪਣੀ ਵਿਸ਼ਲਿਸਟ ਵਿੱਚ ਜੋੜੇ ਗਏ ਸਾਰੇ ਪ੍ਰੋਡਕਟਸ ਦੇਖ ਸਕਦੇ ਹੋ.",
+        "yourCartTitle": "ਤੁਹਾਡਾ ਕਾਰਟ",
+        "yourCartTabInfo": {
+          "firstPoint": "# ਆਈਟਮਸ ਨੂੰ ਤੁਹਾਡੇ ਅਤੇ ਤੁਹਾਡੀ ਡਾਊਨਲਾਈਨ ਲਈ ਬਣਾਏ ਗਏ ਮਲਟੀਪਲ ਆਰਡਰ ਕਾਰਟਸ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ.",
+          "secondPoint": "# ਤੁਸੀਂ ਇੱਕ ਕਲਿੱਕ ਵਿੱਚ ਇੱਕ ਜਾਂ ਮਲਟੀਪਲ ਕਾਰਟਸ ਦੇਖ ਸਕਦੇ ਹੋ.",
+          "thirdPoint": "# ਤੁਸੀਂ ਆਨਲਾਈਨ ਜਾਂ ਕੈਸ਼ ਪੇਮੇਂਟਸ ਕਰਨਾ ਚੁਣ ਸਕਦੇ ਹੋ."
+        }
+      }
+    }

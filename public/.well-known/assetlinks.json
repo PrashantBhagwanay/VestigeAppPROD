@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "com.vestigeshopping",
+                 "sha256_cert_fingerprints": ["D5:5F:A6:17:EC:CE:9E:50:32:76:3B:C7:4C:A3:16:C2:E1:94:FC:47:71:5F:43:DD:B9:A7:73:74:61:B3:CB:3C"] }
+  }]

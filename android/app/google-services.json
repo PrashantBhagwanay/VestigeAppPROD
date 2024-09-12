@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "33519182065",
+    "firebase_url": "https://vestige-2d567.firebaseio.com",
+    "project_id": "vestige-2d567",
+    "storage_bucket": "vestige-2d567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33519182065:android:9b6c9c44a6211f71",
+        "android_client_info": {
+          "package_name": "com.vestigeshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33519182065-p3vduehka069sgtn7bkitrnnnhdbtlee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj4M4_ScgcUc1zozqZcAoOXzmt-uO-RVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33519182065-p3vduehka069sgtn7bkitrnnnhdbtlee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "33519182065-o2ov3376g5fqq8fidv2lubvjict5qitl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vestige.iosvestige"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
